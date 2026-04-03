@@ -217,7 +217,7 @@ pub fn search(entries: Vec<ListEntry>) -> AnyResult<()> {
     let map: HashMap<String, Material> = serde_json::from_str(&data)?;
 
     let mut reports = Vec::new();
-    let mut results = Vec::new();
+    // let mut results = Vec::new();
     let mut unique_check: HashMap<String, HashMap<String, Vec<String>>> = HashMap::new();
 
     for entry in entries {
@@ -232,53 +232,24 @@ pub fn search(entries: Vec<ListEntry>) -> AnyResult<()> {
         };
         if let Some(material) = map.get(&entry.material_id) {
             report.material_name = material.material_name.clone();
-            let c = material.coa_list.iter().find(|c| c.batch_no == "");
+
+            let coas: Vec<&Coa> = material
+                .coa_list
+                .iter()
+                .filter(|c| c.batch_no == entry.batch_no)
+                .collect();
+
+            if coas.len() == 0 {
+                report.reason = String::from("Mã lô không tồn tại.");
+            } else {
+            }
+            // println!("{coas:?}");
         } else {
             report.reason = String::from("Không tìm thấy mã nguyên liệu trong database.");
             reports.push(report);
         }
     }
     println!("{reports:?}");
-
-    println!();
-    if !results.is_empty() {
-        println!(
-            "   ✅ Tìm được {} file coa\n",
-            results.len().to_string().green().bold()
-        );
-
-        // In bảng kết quả
-        println!(
-            "  {:<20} {:<20} {:<20} {:<20} {:<50} {}",
-            "Material ID".bold(),
-            "Material Name".bold(),
-            "Batch Number".bold(),
-            "Expiration Date".bold(),
-            "Path".bold(),
-            "Exists File".bold()
-        );
-        println!("  {}", "─".repeat(150));
-
-        for r in &results {
-            println!(
-                "  {:<20} {:<20} {:<20} {:<20} {:<50} {}",
-                truncate(&r.material_id, 18).green(),
-                truncate(&r.material_name, 18).cyan(),
-                truncate(&r.batch_no, 18).cyan(),
-                truncate(
-                    if r.expiration_date == "" {
-                        "--"
-                    } else {
-                        &r.expiration_date
-                    },
-                    13
-                )
-                .yellow(),
-                truncate(&r.path, 48).cyan(),
-                &r.valid_file
-            );
-        }
-    }
 
     Ok(())
 }
