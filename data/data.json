@@ -1,0 +1,4688 @@
+{
+  "ICHNL-0000000001": {
+    "material_name": "Fermented Honey",
+    "coa_list": [
+      {
+        "batch_no": "FHP25E28",
+        "manufacture_date": "03/10/2025",
+        "expiry_date": "02/04/2027",
+        "path": "/ICHNL-0000000001/FHP25E28.pdf"
+      },
+      {
+        "batch_no": "FHP25E12",
+        "manufacture_date": "01/07/2025",
+        "expiry_date": "31/12/2026",
+        "path": "/ICHNL-0000000001/FHP25E12.pdf"
+      },
+      {
+        "batch_no": "FHP25I04",
+        "manufacture_date": "07/11/2025",
+        "expiry_date": "06/05/2027",
+        "path": ""
+      },
+      {
+        "batch_no": "FHP25J10",
+        "manufacture_date": "07/11/2025",
+        "expiry_date": "06/05/2027",
+        "path": ""
+      },
+      {
+        "batch_no": "FHP25K07",
+        "manufacture_date": "20/11/2025",
+        "expiry_date": "19/05/2027",
+        "path": "/ICHNL-0000000001/FHP25K07.pdf"
+      },
+      {
+        "batch_no": "FHP25I04",
+        "manufacture_date": "17/10/2025",
+        "expiry_date": "16/04/2027",
+        "path": ""
+      }
+    ]
+  },
+  "ICHNL-0000000002": {
+    "material_name": "Nano Bubble Ginger Extract H",
+    "coa_list": [
+      {
+        "batch_no": "GNB25J24H",
+        "manufacture_date": "03/12/2025",
+        "expiry_date": "02/06/2027",
+        "path": "/ICHNL-0000000002/GNB25J24H_03122025.pdf"
+      },
+      {
+        "batch_no": "GNB25J24H",
+        "manufacture_date": "12/12/2025",
+        "expiry_date": "11/06/2027",
+        "path": "/ICHNL-0000000002/GNB25J24H_12122025.pdf"
+      },
+      {
+        "batch_no": "GNB25J24H",
+        "manufacture_date": "11/12/2025",
+        "expiry_date": "10/06/2027",
+        "path": "/ICHNL-0000000002/GNB25J24H_11122025.pdf"
+      },
+      {
+        "batch_no": "GNB25F17H",
+        "manufacture_date": "16/09/2025",
+        "expiry_date": "15/03/2027",
+        "path": "/ICHNL-0000000002/GNB25F17H.pdf"
+      }
+    ]
+  },
+  "ICHNL-0000000003": {
+    "material_name": "Pink Rockrose Extract",
+    "coa_list": [
+      {
+        "batch_no": "PREG25E16",
+        "manufacture_date": "03/10/2025",
+        "expiry_date": "02/04/2027",
+        "path": "/ICHNL-0000000003/PREG25E16_03102025.pdf"
+      },
+      {
+        "batch_no": "PREG25E16",
+        "manufacture_date": "07/11/2025",
+        "expiry_date": "06/05/2027",
+        "path": ""
+      },
+      {
+        "batch_no": "PREG25J23",
+        "manufacture_date": "12/12/2025",
+        "expiry_date": "11/06/2027",
+        "path": ""
+      }
+    ]
+  },
+  "ICHNL-0000000004": {
+    "material_name": "VeryBerry White",
+    "coa_list": [
+      {
+        "batch_no": "N-424",
+        "manufacture_date": "24/07/2024",
+        "expiry_date": "23/07/2026",
+        "path": "/ICHNL-0000000004/N-424.pdf"
+      },
+      {
+        "batch_no": "Q-427",
+        "manufacture_date": "27/08/2024",
+        "expiry_date": "26/08/2026",
+        "path": ""
+      }
+    ]
+  },
+  "ICHNL-0000000005": {
+    "material_name": "CX Việt Quất - Blueberry Extract",
+    "coa_list": [
+      {
+        "batch_no": "DG2401",
+        "manufacture_date": "24/07/2024",
+        "expiry_date": "23/07/2026",
+        "path": "/ICHNL-0000000005/DG2401.pdf"
+      },
+      {
+        "batch_no": "DC2001",
+        "manufacture_date": "20/03/2024",
+        "expiry_date": "19/03/2026",
+        "path": "/ICHNL-0000000005/DC2001.pdf"
+      }
+    ]
+  },
+  "ICHNL-0000000006": {
+    "material_name": "Hydrolyzed Keratin",
+    "coa_list": [
+      {
+        "batch_no": "EG3101",
+        "manufacture_date": "31/07/2025",
+        "expiry_date": "30/07/2027",
+        "path": "/ICHNL-0000000006/EG3101.pdf"
+      },
+      {
+        "batch_no": "CK2301",
+        "manufacture_date": "22/11/2024",
+        "expiry_date": "21/11/2026",
+        "path": "/ICHNL-0000000006/CK2301.pdf"
+      },
+      {
+        "batch_no": "BFA0601",
+        "manufacture_date": "06/01/2026",
+        "expiry_date": "05/01/2028",
+        "path": ""
+      }
+    ]
+  },
+  "ICHNL-0000000007": {
+    "material_name": "Centella Extract (HD-W)R1",
+    "coa_list": [
+      {
+        "batch_no": "25O1605",
+        "manufacture_date": "16/10/2025",
+        "expiry_date": "15/10/2027",
+        "path": ""
+      },
+      {
+        "batch_no": "25U0904",
+        "manufacture_date": "09/06/2025",
+        "expiry_date": "08/06/2027",
+        "path": "/ICHNL-0000000007/25U0904.pdf"
+      }
+    ]
+  },
+  "ICHNL-0000000008": {
+    "material_name": "Tinh dầu nghệ - Turmeric Oil",
+    "coa_list": [
+      {
+        "batch_no": "K-4456-KE-2024",
+        "manufacture_date": "01/12/2024",
+        "expiry_date": "01/12/2026",
+        "path": "/ICHNL-0000000008/K-4456-KE-2024.pdf"
+      }
+    ]
+  },
+  "ICHNL-0000000009": {
+    "material_name": "Tinh dầu tràm trà D25.200502",
+    "coa_list": [
+      {
+        "batch_no": "D250219",
+        "manufacture_date": "19/02/2025",
+        "expiry_date": "19/02/2026",
+        "path": ""
+      }
+    ]
+  },
+  "ICHNL-0000000010": {
+    "material_name": "Tinh dầu vỏ cam",
+    "coa_list": [
+      {
+        "batch_no": "B-231208",
+        "manufacture_date": "08/12/2023",
+        "expiry_date": "08/12/2026",
+        "path": ""
+      }
+    ]
+  },
+  "ICHNL-0000000011": {
+    "material_name": "Clove Leaf Oil Rectified 80% (TD Đinh Hương 80% D24.100701)",
+    "coa_list": [
+      {
+        "batch_no": "D250625",
+        "manufacture_date": "25/06/2025",
+        "expiry_date": "25/06/2026",
+        "path": ""
+      },
+      {
+        "batch_no": "25101680-1",
+        "manufacture_date": "16/10/2025",
+        "expiry_date": "15/10/2027",
+        "path": "/ICHNL-0000000011/25101680-1.pdf"
+      },
+      {
+        "batch_no": "25062575-1",
+        "manufacture_date": "25/06/2025",
+        "expiry_date": "24/06/2027",
+        "path": "/ICHNL-0000000011/25062575-1.pdf"
+      }
+    ]
+  },
+  "ICHNL-0000000012": {
+    "material_name": "Grapefruit Extract-DL",
+    "coa_list": [
+      {
+        "batch_no": "24L1701",
+        "manufacture_date": "17/07/2024",
+        "expiry_date": "16/07/2026",
+        "path": ""
+      }
+    ]
+  },
+  "ICHNL-0000000013": {
+    "material_name": "Actosome Turmeric",
+    "coa_list": [
+      {
+        "batch_no": "ATM4SL1802",
+        "manufacture_date": "18/11/2024",
+        "expiry_date": "17/05/2026",
+        "path": "/ICHNL-0000000013/ATM4SL1802.jpg"
+      }
+    ]
+  },
+  "ICHNL-0000000014": {
+    "material_name": "Cytobiol Lumin-Eye",
+    "coa_list": [
+      {
+        "batch_no": "204103",
+        "manufacture_date": "01/11/2024",
+        "expiry_date": "30/11/2025",
+        "path": "/ICHNL-0000000014/204103.pdf"
+      },
+      {
+        "batch_no": "207305",
+        "manufacture_date": "01/06/2025",
+        "expiry_date": "30/06/2026",
+        "path": "/ICHNL-0000000014/207305.pdf"
+      }
+    ]
+  },
+  "ICHNL-0000000015": {
+    "material_name": "Skin 3-Pure",
+    "coa_list": [
+      {
+        "batch_no": "EG3101",
+        "manufacture_date": "31/07/2025",
+        "expiry_date": "30/07/2027",
+        "path": ""
+      }
+    ]
+  },
+  "ICHNL-0000000016": {
+    "material_name": "Bakuchiol 94%",
+    "coa_list": [
+      {
+        "batch_no": "AC-BAK-1-220925",
+        "manufacture_date": "03/11/2025",
+        "expiry_date": "02/11/2027",
+        "path": "/ICHNL-0000000016/AC-BAK-1-220925.pdf"
+      },
+      {
+        "batch_no": "CX-94BAKU0925",
+        "manufacture_date": "26/09/2025",
+        "expiry_date": "25/09/2028",
+        "path": "/ICHNL-0000000016/CX-94BAKU0925.pdf"
+      }
+    ]
+  },
+  "ICHNL-0000000017": {
+    "material_name": "Tea (Triethanolamine)",
+    "coa_list": [
+      {
+        "batch_no": "R014O5H16B",
+        "manufacture_date": "17/05/2024",
+        "expiry_date": "17/05/2026",
+        "path": ""
+      }
+    ]
+  },
+  "ICHNL-0000000018": {
+    "material_name": "Amitose R",
+    "coa_list": [
+      {
+        "batch_no": "CFJ",
+        "manufacture_date": "02/06/2025",
+        "expiry_date": "01/06/2028",
+        "path": ""
+      },
+      {
+        "batch_no": "CGK",
+        "manufacture_date": "14/07/2025",
+        "expiry_date": "13/07/2028",
+        "path": ""
+      },
+      {
+        "batch_no": "CEH",
+        "manufacture_date": "13/05/2025",
+        "expiry_date": "12/05/2028",
+        "path": ""
+      },
+      {
+        "batch_no": "CHM",
+        "manufacture_date": "18/08/2025",
+        "expiry_date": "17/08/2028",
+        "path": "/ICHNL-0000000018/CHM.pdf"
+      },
+      {
+        "batch_no": "CGL",
+        "manufacture_date": "22/07/2025",
+        "expiry_date": "21/07/2028",
+        "path": "/ICHNL-0000000018/CGL.pdf"
+      },
+      {
+        "batch_no": "LIF",
+        "manufacture_date": "19/09/2023",
+        "expiry_date": "18/09/2026",
+        "path": "/ICHNL-0000000018/LIF.pdf"
+      }
+    ]
+  },
+  "ICHNL-0000000019": {
+    "material_name": "DW jojoba golden",
+    "coa_list": [
+      {
+        "batch_no": "77711012025",
+        "manufacture_date": "11/01/2025",
+        "expiry_date": "11/01/2027",
+        "path": "/ICHNL-0000000019/77711012025.pdf"
+      },
+      {
+        "batch_no": "77711052025",
+        "manufacture_date": "14/05/2025",
+        "expiry_date": "14/05/2027",
+        "path": "/ICHNL-0000000019/77711052025.pdf"
+      }
+    ]
+  },
+  "ICHNL-0000000020": {
+    "material_name": "Mix Perfume (Creed Aventus)",
+    "coa_list": [
+      {
+        "batch_no": "QHY-1125",
+        "manufacture_date": "05/12/2024",
+        "expiry_date": "05/12/2026",
+        "path": ""
+      }
+    ]
+  },
+  "ICHNL-0000000021": {
+    "material_name": "Betula Alba Extract- Chiết xuất Vỏ Cây Bạch Dương",
+    "coa_list": [
+      {
+        "batch_no": "EJ1601",
+        "manufacture_date": "16/10/2025",
+        "expiry_date": "15/10/2027",
+        "path": "/ICHNL-0000000021/EJ1601.pdf"
+      }
+    ]
+  },
+  "ICHNL-0000000022": {
+    "material_name": "Vegetamide 18MEA-NJ",
+    "coa_list": [
+      {
+        "batch_no": "GEN",
+        "manufacture_date": "18/03/2024",
+        "expiry_date": "17/03/2026",
+        "path": "/ICHNL-0000000022/GEN.pdf"
+      }
+    ]
+  },
+  "ICHNL-0000000023": {
+    "material_name": "Melazero",
+    "coa_list": [
+      {
+        "batch_no": "250514A",
+        "manufacture_date": "14/05/2025",
+        "expiry_date": "13/05/2028",
+        "path": "/ICHNL-0000000023/250514A.pdf"
+      },
+      {
+        "batch_no": "250430A",
+        "manufacture_date": "30/04/2025",
+        "expiry_date": "29/04/2028",
+        "path": "/ICHNL-0000000023/250430A.pdf"
+      }
+    ]
+  },
+  "ICHNL-0000000024": {
+    "material_name": "Green V602:1-120",
+    "coa_list": [
+      {
+        "batch_no": "VS25020164",
+        "manufacture_date": "05/02/2025",
+        "expiry_date": "04/02/2030",
+        "path": "/ICHNL-0000000024/VS25020164.pdf"
+      }
+    ]
+  },
+  "ICHNL-0000000025": {
+    "material_name": "Corum 9230",
+    "coa_list": [
+      {
+        "batch_no": "AC869002",
+        "manufacture_date": "28/07/2025",
+        "expiry_date": "28/07/2027",
+        "path": "/ICHNL-0000000025/AC869002.pdf"
+      },
+      {
+        "batch_no": "ZC833602",
+        "manufacture_date": "02/08/2024",
+        "expiry_date": "02/08/2026",
+        "path": "/ICHNL-0000000025/ZC833602.pdf"
+      },
+      {
+        "batch_no": "ZA811701",
+        "manufacture_date": "31/01/2024",
+        "expiry_date": "31/01/2026",
+        "path": "/ICHNL-0000000025/ZA811701.pdf"
+      }
+    ]
+  },
+  "ICHNL-0000000026": {
+    "material_name": "HotFlux",
+    "coa_list": [
+      {
+        "batch_no": "AT117926",
+        "manufacture_date": "07/11/2025",
+        "expiry_date": "07/05/2027",
+        "path": ""
+      },
+      {
+        "batch_no": "AT118027",
+        "manufacture_date": "11/11/2025",
+        "expiry_date": "11/05/2027",
+        "path": ""
+      },
+      {
+        "batch_no": "AT115815",
+        "manufacture_date": "23/07/2025",
+        "expiry_date": "23/01/2027",
+        "path": "/ICHNL-0000000026/AT115815.pdf"
+      },
+      {
+        "batch_no": "AT114309",
+        "manufacture_date": "16/05/2025",
+        "expiry_date": "16/11/2026",
+        "path": "/ICHNL-0000000026/AT114309.pdf"
+      },
+      {
+        "batch_no": "ZT111124",
+        "manufacture_date": "05/12/2024",
+        "expiry_date": "05/06/2026",
+        "path": "/ICHNL-0000000026/ZT111124.pdf"
+      },
+      {
+        "batch_no": "ZT108314",
+        "manufacture_date": "30/07/2024",
+        "expiry_date": "30/01/2026",
+        "path": "/ICHNL-0000000026/ZT108314.pdf"
+      },
+      {
+        "batch_no": "ZT106813",
+        "manufacture_date": "02/05/2024",
+        "expiry_date": "02/11/2025",
+        "path": "/ICHNL-0000000026/ZT106813.pdf"
+      }
+    ]
+  },
+  "ICHNL-0000000027": {
+    "material_name": "OLVE’COS Almond oil 10",
+    "coa_list": [
+      {
+        "batch_no": "0000054212",
+        "manufacture_date": "01/02/2025",
+        "expiry_date": "01/02/2027",
+        "path": "/ICHNL-0000000027/0000054212.pdf"
+      },
+      {
+        "batch_no": "0000056882",
+        "manufacture_date": "21/11/2025",
+        "expiry_date": "21/11/2027",
+        "path": "/ICHNL-0000000027/0000056882.pdf"
+      }
+    ]
+  },
+  "ICHNL-0000000028": {
+    "material_name": "OUBAKU LIQUID B",
+    "coa_list": [
+      {
+        "batch_no": "242280",
+        "manufacture_date": "09/10/2024",
+        "expiry_date": "08/10/2027",
+        "path": "/ICHNL-0000000028/242280.pdf"
+      }
+    ]
+  },
+  "ICHNL-0000000029": {
+    "material_name": "Vegeles AHA-LS 9955",
+    "coa_list": [
+      {
+        "batch_no": "0028235374",
+        "manufacture_date": "18/04/2024",
+        "expiry_date": "18/04/2026",
+        "path": "/ICHNL-0000000029/0028235374.pdf"
+      }
+    ]
+  },
+  "ICHNL-0000000030": {
+    "material_name": "Vitamin E-Acetate Care",
+    "coa_list": [
+      {
+        "batch_no": "65602436W0",
+        "manufacture_date": "06/03/2024",
+        "expiry_date": "06/03/2027",
+        "path": "/ICHNL-0000000030/65602436W0.pdf"
+      },
+      {
+        "batch_no": "41820516K0",
+        "manufacture_date": "25/06/2025",
+        "expiry_date": "24/06/2028",
+        "path": ""
+      },
+      {
+        "batch_no": "46165036W0",
+        "manufacture_date": "06/08/2025",
+        "expiry_date": "05/08/2028",
+        "path": "/ICHNL-0000000030/46165036W0.pdf"
+      }
+    ]
+  },
+  "ICHNL-0000000031": {
+    "material_name": "CLAIR BLANCHE II",
+    "coa_list": [
+      {
+        "batch_no": "240522",
+        "manufacture_date": "28/02/2024",
+        "expiry_date": "27/02/2027",
+        "path": "/ICHNL-0000000031/240522.pdf"
+      },
+      {
+        "batch_no": "221256",
+        "manufacture_date": "23/05/2022",
+        "expiry_date": "22/05/2024",
+        "path": "/ICHNL-0000000031/221256.pdf"
+      }
+    ]
+  },
+  "ICHNL-0000000032": {
+    "material_name": "DURAMIDE PALM KERNEL DEA (CDE 90%)",
+    "coa_list": [
+      {
+        "batch_no": "N09092024",
+        "manufacture_date": "01/09/2024",
+        "expiry_date": "01/09/2026",
+        "path": ""
+      },
+      {
+        "batch_no": "N03292025",
+        "manufacture_date": "01/03/2025",
+        "expiry_date": "01/03/2027",
+        "path": "/ICHNL-0000000032/CDE ( HUNKA ) - N03292025.jpg"
+      }
+    ]
+  },
+  "ICHNL-0000000033": {
+    "material_name": "EARTH MARINE WATER GP",
+    "coa_list": [
+      {
+        "batch_no": "E9998",
+        "manufacture_date": "01/08/2024",
+        "expiry_date": "01/08/2027",
+        "path": ""
+      }
+    ]
+  },
+  "ICHNL-0000000034": {
+    "material_name": "Kiribirth BG",
+    "coa_list": [
+      {
+        "batch_no": "K25D17",
+        "manufacture_date": "25/08/2025",
+        "expiry_date": "24/02/2027",
+        "path": ""
+      },
+      {
+        "batch_no": "K25E27",
+        "manufacture_date": "25/08/2025",
+        "expiry_date": "24/02/2027",
+        "path": ""
+      },
+      {
+        "batch_no": "K25E27",
+        "manufacture_date": "01/09/2025",
+        "expiry_date": "28/02/2027",
+        "path": ""
+      },
+      {
+        "batch_no": "K25H26",
+        "manufacture_date": "01/09/2025",
+        "expiry_date": "28/02/2027",
+        "path": ""
+      },
+      {
+        "batch_no": "K25H26",
+        "manufacture_date": "16/09/2025",
+        "expiry_date": "15/03/2027",
+        "path": "/ICHNL-0000000034/IWAKIRIBG_14665.pdf"
+      }
+    ]
+  },
+  "ICHNL-0000000035": {
+    "material_name": "Royalbiocyte PX",
+    "coa_list": [
+      {
+        "batch_no": "RP25F10",
+        "manufacture_date": "01/09/2025",
+        "expiry_date": "28/02/2027",
+        "path": ""
+      },
+      {
+        "batch_no": "RP25I01",
+        "manufacture_date": "16/09/2025",
+        "expiry_date": "15/03/2027",
+        "path": "/ICHNL-0000000035/RP25I01.pdf"
+      },
+      {
+        "batch_no": "RP25I24",
+        "manufacture_date": "17/10/2025",
+        "expiry_date": "16/04/2027",
+        "path": ""
+      }
+    ]
+  },
+  "ICHNL-0000000036": {
+    "material_name": "Dipotassium Glycyrrhizinate",
+    "coa_list": [
+      {
+        "batch_no": "24I215",
+        "manufacture_date": "26/09/2024",
+        "expiry_date": "21/08/2026",
+        "path": "/ICHNL-0000000036/24I215.pdf"
+      },
+      {
+        "batch_no": "24K259",
+        "manufacture_date": "06/11/2024",
+        "expiry_date": "24/09/2026",
+        "path": ""
+      },
+      {
+        "batch_no": "25I221",
+        "manufacture_date": "04/09/2025",
+        "expiry_date": "28/07/2027",
+        "path": ""
+      },
+      {
+        "batch_no": "25I222",
+        "manufacture_date": "04/09/2025",
+        "expiry_date": "28/07/2027",
+        "path": "/ICHNL-0000000036/25I222.pdf"
+      }
+    ]
+  },
+  "ICHNL-0000000037": {
+    "material_name": "MC-SALICARE",
+    "coa_list": [
+      {
+        "batch_no": "MCSC240716",
+        "manufacture_date": "16/07/2024",
+        "expiry_date": "15/07/2026",
+        "path": ""
+      },
+      {
+        "batch_no": "MCSC251103",
+        "manufacture_date": "03/11/2025",
+        "expiry_date": "03/11/2027",
+        "path": "/ICHNL-0000000037/MCSC251103.pdf"
+      }
+    ]
+  },
+  "ICHNL-0000000038": {
+    "material_name": "DK-PGT PASTE R27",
+    "coa_list": [
+      {
+        "batch_no": "K-39145",
+        "manufacture_date": "01/10/2024",
+        "expiry_date": "30/09/2026",
+        "path": ""
+      }
+    ]
+  },
+  "ICHNL-0000000039": {
+    "material_name": "Timiron Ice Crystal",
+    "coa_list": [
+      {
+        "batch_no": "U230269X40",
+        "manufacture_date": "06/02/2024",
+        "expiry_date": "30/09/2033",
+        "path": ""
+      }
+    ]
+  },
+  "ICHNL-0000000040": {
+    "material_name": "Bơ Shea Tinh Chế",
+    "coa_list": [
+      {
+        "batch_no": "0000053284",
+        "manufacture_date": "01/12/2024",
+        "expiry_date": "01/12/2027",
+        "path": "/ICHNL-0000000040/0000053284.pdf"
+      },
+      {
+        "batch_no": "0000055160",
+        "manufacture_date": "01/05/2025",
+        "expiry_date": "01/05/2028",
+        "path": ""
+      }
+    ]
+  },
+  "ICHNL-0000000041": {
+    "material_name": "SAFEELIA Pore Refining Blend GR",
+    "coa_list": [
+      {
+        "batch_no": "25032",
+        "manufacture_date": "01/03/2025",
+        "expiry_date": "28/02/2027",
+        "path": ""
+      },
+      {
+        "batch_no": "24158",
+        "manufacture_date": "11/12/2024",
+        "expiry_date": "10/12/2026",
+        "path": ""
+      }
+    ]
+  },
+  "ICHNL-0000000042": {
+    "material_name": "ShieldBisoTM OMC",
+    "coa_list": [
+      {
+        "batch_no": "BOMC250520",
+        "manufacture_date": "20/05/2025",
+        "expiry_date": "19/05/2027",
+        "path": ""
+      }
+    ]
+  },
+  "ICHNL-0000000043": {
+    "material_name": "Anti-mol Green",
+    "coa_list": [
+      {
+        "batch_no": "NAN070825",
+        "manufacture_date": "07/08/2025",
+        "expiry_date": "06/08/2027",
+        "path": ""
+      },
+      {
+        "batch_no": "NaN071125",
+        "manufacture_date": "07/11/2025",
+        "expiry_date": "06/11/2027",
+        "path": ""
+      }
+    ]
+  },
+  "ICHNL-0000000044": {
+    "material_name": "Anti-mol NPS",
+    "coa_list": [
+      {
+        "batch_no": "NNG240924",
+        "manufacture_date": "24/09/2024",
+        "expiry_date": "23/09/2027",
+        "path": ""
+      },
+      {
+        "batch_no": "NNG170325",
+        "manufacture_date": "17/03/2025",
+        "expiry_date": "16/03/2028",
+        "path": ""
+      }
+    ]
+  },
+  "ICHNL-0000000045": {
+    "material_name": "AJIDEW NL-50",
+    "coa_list": [
+      {
+        "batch_no": "2502041B",
+        "manufacture_date": "16/02/2025",
+        "expiry_date": "16/02/2029",
+        "path": "/ICHNL-0000000045/2502041B.pdf"
+      },
+      {
+        "batch_no": "2405161B",
+        "manufacture_date": "12/05/2024",
+        "expiry_date": "12/05/2028",
+        "path": "/ICHNL-0000000045/2405161B.pdf"
+      },
+      {
+        "batch_no": "2403090B",
+        "manufacture_date": "10/03/2024",
+        "expiry_date": "10/03/2028",
+        "path": "/ICHNL-0000000045/2403090B.pdf"
+      },
+      {
+        "batch_no": "2307155B",
+        "manufacture_date": "19/07/2023",
+        "expiry_date": "19/07/2027",
+        "path": "/ICHNL-0000000045/2307155B.pdf"
+      }
+    ]
+  },
+  "ICHNL-0000000046": {
+    "material_name": "Anti-mol Natural",
+    "coa_list": [
+      {
+        "batch_no": "NAN020924",
+        "manufacture_date": "02/09/2024",
+        "expiry_date": "01/09/2027",
+        "path": ""
+      }
+    ]
+  },
+  "ICHNL-0000000047": {
+    "material_name": "Purasal S",
+    "coa_list": [
+      {
+        "batch_no": "7500460408",
+        "manufacture_date": "16/05/2025",
+        "expiry_date": "16/05/2027",
+        "path": "/ICHNL-0000000047/7500460408.pdf"
+      },
+      {
+        "batch_no": "7500486376",
+        "manufacture_date": "21/07/2025",
+        "expiry_date": "21/07/2027",
+        "path": ""
+      }
+    ]
+  },
+  "ICHNL-0000000048": {
+    "material_name": "SEPIMAX ZEN",
+    "coa_list": [
+      {
+        "batch_no": "250109072466",
+        "manufacture_date": "19/11/2024",
+        "expiry_date": "19/11/2027",
+        "path": "/ICHNL-0000000048/250109072466.pdf"
+      },
+      {
+        "batch_no": "250515072834",
+        "manufacture_date": "29/05/2025",
+        "expiry_date": "05/05/2028",
+        "path": "/ICHNL-0000000048/250515072834.pdf"
+      },
+      {
+        "batch_no": "250904072940",
+        "manufacture_date": "13/06/2025",
+        "expiry_date": "12/06/2028",
+        "path": ""
+      },
+      {
+        "batch_no": "251211013253",
+        "manufacture_date": "25/11/2025",
+        "expiry_date": "24/11/2028",
+        "path": ""
+      }
+    ]
+  },
+  "ICHNL-0000000049": {
+    "material_name": "FLOCARE SK 425",
+    "coa_list": [
+      {
+        "batch_no": "PPRB1115",
+        "manufacture_date": "30/07/2024",
+        "expiry_date": "30/07/2026",
+        "path": ""
+      }
+    ]
+  },
+  "ICHNL-0000000050": {
+    "material_name": "STV-455",
+    "coa_list": [
+      {
+        "batch_no": "1137",
+        "manufacture_date": "12/12/2024",
+        "expiry_date": "26/06/2027",
+        "path": ""
+      },
+      {
+        "batch_no": "1132",
+        "manufacture_date": "01/11/2024",
+        "expiry_date": "15/05/2027",
+        "path": "/ICHNL-0000000050/1131_1132.pdf"
+      }
+    ]
+  },
+  "ICHNL-0000000051": {
+    "material_name": "Bee Tox H",
+    "coa_list": [
+      {
+        "batch_no": "BH5SB20B3",
+        "manufacture_date": "20/10/2025",
+        "expiry_date": "19/10/2027",
+        "path": ""
+      },
+      {
+        "batch_no": "BH5GU12B3",
+        "manufacture_date": "12/09/2025",
+        "expiry_date": "11/09/2027",
+        "path": "/ICHNL-0000000051/BH5GU12B3.pdf"
+      }
+    ]
+  },
+  "ICHNL-0000000052": {
+    "material_name": "Nonipure (IPMP)",
+    "coa_list": [
+      {
+        "batch_no": "20240609",
+        "manufacture_date": "09/06/2024",
+        "expiry_date": "06/06/2026",
+        "path": ""
+      }
+    ]
+  },
+  "ICHNL-0000000053": {
+    "material_name": "SPECWHITE DL-MA",
+    "coa_list": [
+      {
+        "batch_no": "20250324",
+        "manufacture_date": "24/03/2025",
+        "expiry_date": "23/03/2027",
+        "path": ""
+      }
+    ]
+  },
+  "ICHNL-0000000054": {
+    "material_name": "Tranexamic Acid",
+    "coa_list": [
+      {
+        "batch_no": "HZREB20250813TXA",
+        "manufacture_date": "13/08/2025",
+        "expiry_date": "12/08/2028",
+        "path": "/ICHNL-0000000054/HZREB20250813TXA.pdf"
+      },
+      {
+        "batch_no": "HZREB20251216TXA",
+        "manufacture_date": "16/12/2025",
+        "expiry_date": "15/12/2028",
+        "path": ""
+      }
+    ]
+  },
+  "ICHNL-0000000055": {
+    "material_name": "Natrosol 250 HHR PC Hydroxyethylcellulose",
+    "coa_list": [
+      {
+        "batch_no": "W0676",
+        "manufacture_date": "15/09/2023",
+        "expiry_date": "14/09/2026",
+        "path": "/ICHNL-0000000055/W0676.pdf"
+      }
+    ]
+  },
+  "ICHNL-0000000056": {
+    "material_name": "ALPHA ARBUTIN",
+    "coa_list": [
+      {
+        "batch_no": "20250727",
+        "manufacture_date": "27/07/2025",
+        "expiry_date": "26/07/2027",
+        "path": ""
+      },
+      {
+        "batch_no": "20250913",
+        "manufacture_date": "13/09/2025",
+        "expiry_date": "12/09/2027",
+        "path": "/ICHNL-0000000056/20250913.pdf"
+      },
+      {
+        "batch_no": "20251102",
+        "manufacture_date": "02/11/2025",
+        "expiry_date": "01/11/2027",
+        "path": "/ICHNL-0000000056/20251102.pdf"
+      },
+      {
+        "batch_no": "20251110",
+        "manufacture_date": "10/11/2025",
+        "expiry_date": "09/11/2027",
+        "path": "/ICHNL-0000000056/20251110.pdf"
+      },
+      {
+        "batch_no": "20250102",
+        "manufacture_date": "02/01/2025",
+        "expiry_date": "01/01/2027",
+        "path": "/ICHNL-0000000056/20250102.pdf"
+      }
+    ]
+  },
+  "ICHNL-0000000057": {
+    "material_name": "Sodium Hyaluronate 1.2MDa",
+    "coa_list": [
+      {
+        "batch_no": "250201",
+        "manufacture_date": "11/02/2025",
+        "expiry_date": "10/02/2027",
+        "path": "/ICHNL-0000000057/250201.pdf"
+      }
+    ]
+  },
+  "ICHNL-0000000058": {
+    "material_name": "HyRetin",
+    "coa_list": [
+      {
+        "batch_no": "RET-250402",
+        "manufacture_date": "02/04/2025",
+        "expiry_date": "02/10/2026",
+        "path": ""
+      },
+      {
+        "batch_no": "RET-250108",
+        "manufacture_date": "08/01/2025",
+        "expiry_date": "08/07/2026",
+        "path": ""
+      },
+      {
+        "batch_no": "RET-250818",
+        "manufacture_date": "18/08/2025",
+        "expiry_date": "18/02/2027",
+        "path": ""
+      }
+    ]
+  },
+  "ICHNL-0000000059": {
+    "material_name": "Titrated Extract of Centella Asiatica",
+    "coa_list": [
+      {
+        "batch_no": "F250122",
+        "manufacture_date": "23/01/2025",
+        "expiry_date": "22/01/2027",
+        "path": ""
+      },
+      {
+        "batch_no": "F250916",
+        "manufacture_date": "29/09/2025",
+        "expiry_date": "28/09/2027",
+        "path": ""
+      }
+    ]
+  },
+  "ICHNL-0000000060": {
+    "material_name": "COSMAN DSBP",
+    "coa_list": [
+      {
+        "batch_no": "20241024",
+        "manufacture_date": "24/10/2024",
+        "expiry_date": "23/10/2026",
+        "path": ""
+      }
+    ]
+  },
+  "ICHNL-0000000061": {
+    "material_name": "SUCRALOSE",
+    "coa_list": [
+      {
+        "batch_no": "202509042",
+        "manufacture_date": "13/09/2025",
+        "expiry_date": "12/09/2027",
+        "path": ""
+      },
+      {
+        "batch_no": "202501022",
+        "manufacture_date": "05/01/2025",
+        "expiry_date": "04/01/2027",
+        "path": ""
+      }
+    ]
+  },
+  "ICHNL-0000000062": {
+    "material_name": "COSMAN GSH",
+    "coa_list": [
+      {
+        "batch_no": "GSH-24041405",
+        "manufacture_date": "14/04/2024",
+        "expiry_date": "13/04/2026",
+        "path": ""
+      }
+    ]
+  },
+  "ICHNL-0000000063": {
+    "material_name": "AJIDEW ZN-100",
+    "coa_list": [
+      {
+        "batch_no": "2301017ZNB",
+        "manufacture_date": "10/01/2023",
+        "expiry_date": "10/01/2029",
+        "path": ""
+      }
+    ]
+  },
+  "ICHNL-0000000064": {
+    "material_name": "Sodium benzoate powder BP",
+    "coa_list": [
+      {
+        "batch_no": "20241204",
+        "manufacture_date": "04/12/2024",
+        "expiry_date": "03/12/2026",
+        "path": ""
+      },
+      {
+        "batch_no": "20241004",
+        "manufacture_date": "04/10/2024",
+        "expiry_date": "03/10/2026",
+        "path": ""
+      }
+    ]
+  },
+  "ICHNL-0000000065": {
+    "material_name": "STEARIC ACID PALMAC 50-18 BEADS",
+    "coa_list": [
+      {
+        "batch_no": "5018CA0970",
+        "manufacture_date": "09/08/2024",
+        "expiry_date": "09/08/2026",
+        "path": ""
+      }
+    ]
+  },
+  "ICHNL-0000000066": {
+    "material_name": "Salicylic Acid",
+    "coa_list": [
+      {
+        "batch_no": "RAS2302800",
+        "manufacture_date": "28/01/2023",
+        "expiry_date": "28/01/2028",
+        "path": "/ICHNL-0000000066/ACID SALICYLIC - RAS2302800.pdf"
+      }
+    ]
+  },
+  "ICHNL-0000000067": {
+    "material_name": "STAR-VCE",
+    "coa_list": [
+      {
+        "batch_no": "VC2412-117B",
+        "manufacture_date": "11/12/2024",
+        "expiry_date": "10/12/2026",
+        "path": ""
+      },
+      {
+        "batch_no": "VC2502-122B",
+        "manufacture_date": "03/02/2025",
+        "expiry_date": "02/02/2027",
+        "path": ""
+      },
+      {
+        "batch_no": "VC2408-107B",
+        "manufacture_date": "19/08/2024",
+        "expiry_date": "18/08/2026",
+        "path": "/ICHNL-0000000067/(COA)STAR-VCE_VC2408-107B.pdf"
+      }
+    ]
+  },
+  "ICHNL-0000000068": {
+    "material_name": "GLYPURE",
+    "coa_list": [
+      {
+        "batch_no": "20250406",
+        "manufacture_date": "06/04/2025",
+        "expiry_date": "05/04/2027",
+        "path": ""
+      },
+      {
+        "batch_no": "20251106",
+        "manufacture_date": "06/11/2025",
+        "expiry_date": "05/11/2027",
+        "path": "/ICHNL-0000000068/20251106.pdf"
+      }
+    ]
+  },
+  "ICHNL-0000000069": {
+    "material_name": "COSMAN 4105Y",
+    "coa_list": [
+      {
+        "batch_no": "20230928",
+        "manufacture_date": "28/09/2023",
+        "expiry_date": "27/09/2026",
+        "path": "/ICHNL-0000000069/COSMAN 4105Y - 20230928 ( NBA ).pdf"
+      }
+    ]
+  },
+  "ICHNL-0000000070": {
+    "material_name": "Skinhairgium Bio",
+    "coa_list": [
+      {
+        "batch_no": "2306400004",
+        "manufacture_date": "25/07/2023",
+        "expiry_date": "25/07/2028",
+        "path": ""
+      }
+    ]
+  },
+  "ICHNL-0000000071": {
+    "material_name": "Acrypol 940 (Carbomer 940)",
+    "coa_list": [
+      {
+        "batch_no": "11024011",
+        "manufacture_date": "01/04/2024",
+        "expiry_date": "01/04/2027",
+        "path": "/ICHNL-0000000071/11024011.pdf"
+      },
+      {
+        "batch_no": "11021018",
+        "manufacture_date": "31/05/2021",
+        "expiry_date": "31/04/2024",
+        "path": "/ICHNL-0000000071/11021018.pdf"
+      }
+    ]
+  },
+  "ICHNL-0000000072": {
+    "material_name": "Sáp Ong Trắng",
+    "coa_list": [
+      {
+        "batch_no": "25032505",
+        "manufacture_date": "22/03/2025",
+        "expiry_date": "22/03/2027",
+        "path": "/ICHNL-0000000072/25032505.pdf"
+      }
+    ]
+  },
+  "ICHNL-0000000073": {
+    "material_name": "COSMAN NSC902",
+    "coa_list": [
+      {
+        "batch_no": "20250702",
+        "manufacture_date": "02/07/2025",
+        "expiry_date": "01/07/2027",
+        "path": ""
+      },
+      {
+        "batch_no": "20240505",
+        "manufacture_date": "05/05/2024",
+        "expiry_date": "04/05/2026",
+        "path": ""
+      },
+      {
+        "batch_no": "20250922",
+        "manufacture_date": "22/09/2025",
+        "expiry_date": "21/09/2027",
+        "path": ""
+      },
+      {
+        "batch_no": "20240220",
+        "manufacture_date": "20/02/2024",
+        "expiry_date": "19/02/2026",
+        "path": "/ICHNL-0000000073/20240220.pdf"
+      },
+      {
+        "batch_no": "20240305",
+        "manufacture_date": "05/03/2024",
+        "expiry_date": "04/03/2026",
+        "path": "/ICHNL-0000000073/20240305.pdf"
+      }
+    ]
+  },
+  "ICHNL-0000000074": {
+    "material_name": "Polyvinyl Alcohol",
+    "coa_list": [
+      {
+        "batch_no": "25325L",
+        "manufacture_date": "14/03/2025",
+        "expiry_date": "14/03/2028",
+        "path": ""
+      }
+    ]
+  },
+  "ICHNL-0000000075": {
+    "material_name": "Butylated Hydroxy Toluene (BHT)",
+    "coa_list": [
+      {
+        "batch_no": "0000171149",
+        "manufacture_date": "06/09/2024",
+        "expiry_date": "06/09/2026",
+        "path": "/ICHNL-0000000075/0000171149.pdf"
+      },
+      {
+        "batch_no": "0000213703",
+        "manufacture_date": "07/03/2025",
+        "expiry_date": "07/03/2027",
+        "path": "/ICHNL-0000000075/0000213703.pdf"
+      },
+      {
+        "batch_no": "0000136705",
+        "manufacture_date": "03/04/2024",
+        "expiry_date": "03/04/2026",
+        "path": "/ICHNL-0000000075/0000136705.pdf"
+      }
+    ]
+  },
+  "ICHNL-0000000076": {
+    "material_name": "Massage Bead NB",
+    "coa_list": [
+      {
+        "batch_no": "MASA1609CA102",
+        "manufacture_date": "16/09/2025",
+        "expiry_date": "16/09/2027",
+        "path": ""
+      },
+      {
+        "batch_no": "MASA2111DA102",
+        "manufacture_date": "21/11/2025",
+        "expiry_date": "20/11/2027",
+        "path": ""
+      }
+    ]
+  },
+  "ICHNL-0000000077": {
+    "material_name": "Betaine Salicylate",
+    "coa_list": [
+      {
+        "batch_no": "HZREB20250820BHA",
+        "manufacture_date": "20/08/2025",
+        "expiry_date": "19/08/2027",
+        "path": "/ICHNL-0000000077/HZREB20250820BHA.pdf"
+      },
+      {
+        "batch_no": "HZREB20250403BHA",
+        "manufacture_date": "03/04/2025",
+        "expiry_date": "02/04/2027",
+        "path": "/ICHNL-0000000077/HZREB20250403BHA.pdf"
+      },
+      {
+        "batch_no": "HZREB20240325BHA",
+        "manufacture_date": "25/03/2024",
+        "expiry_date": "24/03/2026",
+        "path": "/ICHNL-0000000077/HZREB20240325BHA.pdf"
+      }
+    ]
+  },
+  "ICHNL-0000000078": {
+    "material_name": "Sodium Chioride / Natri Clorua",
+    "coa_list": [
+      {
+        "batch_no": "391/2024",
+        "manufacture_date": "08/07/2024",
+        "expiry_date": "08/07/2027",
+        "path": ""
+      }
+    ]
+  },
+  "ICHNL-0000000079": {
+    "material_name": "SinoWhite a-ABT (Alpha-Arbutin)",
+    "coa_list": [
+      {
+        "batch_no": "2025050601",
+        "manufacture_date": "06/05/2025",
+        "expiry_date": "05/05/2027",
+        "path": "/ICHNL-0000000079/2025050601.pdf"
+      },
+      {
+        "batch_no": "2024080501",
+        "manufacture_date": "06/05/2025",
+        "expiry_date": "05/05/2027",
+        "path": "/ICHNL-0000000079/2024080501.pdf"
+      }
+    ]
+  },
+  "ICHNL-0000000080": {
+    "material_name": "White Petroleum Jelly (Vaselin)",
+    "coa_list": [
+      {
+        "batch_no": "WPJC/044/23-24",
+        "manufacture_date": "14/06/2023",
+        "expiry_date": "13/06/2026",
+        "path": ""
+      },
+      {
+        "batch_no": "WPJC/052/25-26",
+        "manufacture_date": "14/05/2025",
+        "expiry_date": "13/05/2028",
+        "path": ""
+      }
+    ]
+  },
+  "ICHNL-0000000081": {
+    "material_name": "Allantoin USP",
+    "coa_list": [
+      {
+        "batch_no": "25LOT01156",
+        "manufacture_date": "01/02/2025",
+        "expiry_date": "01/02/2030",
+        "path": ""
+      },
+      {
+        "batch_no": "24LOT01986",
+        "manufacture_date": "01/10/2024",
+        "expiry_date": "01/10/2029",
+        "path": "/ICHNL-0000000081/24LOT01986.pdf"
+      },
+      {
+        "batch_no": "20LOT01985",
+        "manufacture_date": "01/12/2020",
+        "expiry_date": "01/12/2025",
+        "path": "/ICHNL-0000000081/20LOT01985.jpg"
+      },
+      {
+        "batch_no": "25LOT01156",
+        "manufacture_date": "01/02/2025",
+        "expiry_date": "01/02/2030",
+        "path": "/ICHNL-0000000081/25LOT01156.pdf"
+      },
+      {
+        "batch_no": "24LOT01811",
+        "manufacture_date": "01/09/2024",
+        "expiry_date": "01/09/2029",
+        "path": "/ICHNL-0000000081/24LOT01811.pdf"
+      }
+    ]
+  },
+  "ICHNL-0000000082": {
+    "material_name": "Tio2 CR-50 AS",
+    "coa_list": [
+      {
+        "batch_no": "AJ2436AD-03",
+        "manufacture_date": "03/09/2024",
+        "expiry_date": "03/09/2028",
+        "path": "/ICHNL-0000000082/AJ2436AD-03.pdf"
+      },
+      {
+        "batch_no": "AH2528AI-04",
+        "manufacture_date": "08/07/2025",
+        "expiry_date": "08/07/2029",
+        "path": "/ICHNL-0000000082/AH2528AI-04.pdf"
+      },
+      {
+        "batch_no": "AJ2436AE",
+        "manufacture_date": "04/09/2024",
+        "expiry_date": "04/09/2028",
+        "path": "/ICHNL-0000000082/AJ2436AE.pdf"
+      },
+      {
+        "batch_no": "AH2528BA",
+        "manufacture_date": "10/07/2025",
+        "expiry_date": "09/07/2029",
+        "path": ""
+      },
+      {
+        "batch_no": "AH2528BA-02",
+        "manufacture_date": "10/07/2025",
+        "expiry_date": "09/07/2029",
+        "path": ""
+      }
+    ]
+  },
+  "ICHNL-0000000083": {
+    "material_name": "Talc 2K AS",
+    "coa_list": [
+      {
+        "batch_no": "AH2531DB",
+        "manufacture_date": "31/07/2025",
+        "expiry_date": "31/07/2029",
+        "path": ""
+      }
+    ]
+  },
+  "ICHNL-0000000084": {
+    "material_name": "Niacinamide USP PC",
+    "coa_list": [
+      {
+        "batch_no": "OP82410017",
+        "manufacture_date": "16/10/2024",
+        "expiry_date": "16/10/2027",
+        "path": ""
+      },
+      {
+        "batch_no": "OP82411018",
+        "manufacture_date": "12/11/2024",
+        "expiry_date": "12/11/2027",
+        "path": "/ICHNL-0000000084/OP82411018.pdf"
+      }
+    ]
+  },
+  "ICHNL-0000000085": {
+    "material_name": "LX-HPA 150",
+    "coa_list": [
+      {
+        "batch_no": "250424#F1RD01",
+        "manufacture_date": "24/04/2025",
+        "expiry_date": "23/04/2027",
+        "path": ""
+      }
+    ]
+  },
+  "ICHNL-0000000086": {
+    "material_name": "Drygen P",
+    "coa_list": [
+      {
+        "batch_no": "2103015359",
+        "manufacture_date": "01/04/2025",
+        "expiry_date": "31/03/2029",
+        "path": "/ICHNL-0000000086/DRYGEN 2103015359.pdf"
+      }
+    ]
+  },
+  "ICHNL-0000000087": {
+    "material_name": "Emulgade 165 CN",
+    "coa_list": [
+      {
+        "batch_no": "K25918C361",
+        "manufacture_date": "18/09/2025",
+        "expiry_date": "18/09/2027",
+        "path": "/ICHNL-0000000087/K25918C361.pdf"
+      }
+    ]
+  },
+  "ICHNL-0000000088": {
+    "material_name": "TAB-2V",
+    "coa_list": [
+      {
+        "batch_no": "B2503080102",
+        "manufacture_date": "08/03/2025",
+        "expiry_date": "07/03/2027",
+        "path": ""
+      },
+      {
+        "batch_no": "B2505250102",
+        "manufacture_date": "25/05/2025",
+        "expiry_date": "24/05/2027",
+        "path": ""
+      }
+    ]
+  },
+  "ICHNL-0000000089": {
+    "material_name": "Ceresin # 810",
+    "coa_list": [
+      {
+        "batch_no": "250701-5",
+        "manufacture_date": "11/07/2025",
+        "expiry_date": "10/07/2028",
+        "path": ""
+      },
+      {
+        "batch_no": "250701-3",
+        "manufacture_date": "07/07/2025",
+        "expiry_date": "06/07/2028",
+        "path": "/ICHNL-0000000089/250701-3.pdf"
+      },
+      {
+        "batch_no": "250801-3",
+        "manufacture_date": "07/08/2025",
+        "expiry_date": "06/08/2028",
+        "path": "/ICHNL-0000000089/250801-3.pdf"
+      },
+      {
+        "batch_no": "240301-2",
+        "manufacture_date": "11/03/2024",
+        "expiry_date": "16/05/2025",
+        "path": "/ICHNL-0000000089/240301-2.pdf"
+      },
+      {
+        "batch_no": "241101-3",
+        "manufacture_date": "27/11/2024",
+        "expiry_date": "18/02/2026",
+        "path": "/ICHNL-0000000089/241101-3.pdf"
+      },
+      {
+        "batch_no": "250701-2",
+        "manufacture_date": "03/07/2025",
+        "expiry_date": "02/07/2028",
+        "path": "/ICHNL-0000000089/250701-2.pdf"
+      },
+      {
+        "batch_no": "210301-2",
+        "manufacture_date": "03/03/2021",
+        "expiry_date": "05/04/2022",
+        "path": "/ICHNL-0000000089/210301-2.pdf"
+      }
+    ]
+  },
+  "ICHNL-0000000090": {
+    "material_name": "Dentsil DS-100",
+    "coa_list": [
+      {
+        "batch_no": "19978",
+        "manufacture_date": "12/12/2024",
+        "expiry_date": "11/12/2026",
+        "path": ""
+      },
+      {
+        "batch_no": "20080",
+        "manufacture_date": "15/01/2025",
+        "expiry_date": "14/01/2027",
+        "path": ""
+      }
+    ]
+  },
+  "ICHNL-0000000091": {
+    "material_name": "Dentsil DS-230",
+    "coa_list": [
+      {
+        "batch_no": "20458",
+        "manufacture_date": "16/08/2025",
+        "expiry_date": "15/08/2027",
+        "path": ""
+      },
+      {
+        "batch_no": "19977",
+        "manufacture_date": "26/11/2024",
+        "expiry_date": "26/11/2026",
+        "path": ""
+      }
+    ]
+  },
+  "ICHNL-0000000092": {
+    "material_name": "M-ZnO P AS",
+    "coa_list": [
+      {
+        "batch_no": "AH2428AJ",
+        "manufacture_date": "09/07/2024",
+        "expiry_date": "08/07/2028",
+        "path": ""
+      }
+    ]
+  },
+  "ICHNL-0000000093": {
+    "material_name": "Citrus Maxima Fruit Grapefruit Extract",
+    "coa_list": [
+      {
+        "batch_no": "SNT20250302",
+        "manufacture_date": "02/03/2025",
+        "expiry_date": "02/03/2027",
+        "path": "/ICHNL-0000000093/SNT20250302.pdf"
+      }
+    ]
+  },
+  "ICHNL-0000000094": {
+    "material_name": "Cutina AGS",
+    "coa_list": [
+      {
+        "batch_no": "0029524232",
+        "manufacture_date": "10/07/2025",
+        "expiry_date": "10/07/2027",
+        "path": ""
+      },
+      {
+        "batch_no": "0029428361",
+        "manufacture_date": "01/06/2025",
+        "expiry_date": "01/06/2027",
+        "path": "/ICHNL-0000000094/0029428361.pdf"
+      },
+      {
+        "batch_no": "0029722899",
+        "manufacture_date": "01/10/2025",
+        "expiry_date": "01/10/2027",
+        "path": ""
+      }
+    ]
+  },
+  "ICHNL-0000000095": {
+    "material_name": "ThaiOL 1698",
+    "coa_list": [
+      {
+        "batch_no": "2325062906",
+        "manufacture_date": "29/06/2025",
+        "expiry_date": "28/06/2027",
+        "path": "/ICHNL-0000000095/C1698 OBETECH 2325062906 SC OPM 895 25 OPV PI.pdf"
+      },
+      {
+        "batch_no": "2325101301",
+        "manufacture_date": "13/10/2025",
+        "expiry_date": "12/10/2027",
+        "path": ""
+      }
+    ]
+  },
+  "ICHNL-0000000096": {
+    "material_name": "TA 1618 Cetostearyl Alcohol",
+    "coa_list": [
+      {
+        "batch_no": "6NA2225J",
+        "manufacture_date": "21/09/2025",
+        "expiry_date": "21/09/2027",
+        "path": "/ICHNL-0000000096/6NA2225J.pdf"
+      },
+      {
+        "batch_no": "6PA2425K",
+        "manufacture_date": "22/10/2025",
+        "expiry_date": "22/10/2027",
+        "path": ""
+      },
+      {
+        "batch_no": "6MA334M",
+        "manufacture_date": "13/12/2024",
+        "expiry_date": "13/12/2026",
+        "path": "/ICHNL-0000000096/6MA334M.pdf"
+      }
+    ]
+  },
+  "ICHNL-0000000097": {
+    "material_name": "Sillitin N75",
+    "coa_list": [
+      {
+        "batch_no": "5024302",
+        "manufacture_date": "17/02/2025",
+        "expiry_date": "",
+        "path": "/ICHNL-0000000097/5024302.pdf"
+      }
+    ]
+  },
+  "ICHNL-0000000098": {
+    "material_name": "Comperlan CMEA",
+    "coa_list": [
+      {
+        "batch_no": "0029306330",
+        "manufacture_date": "09/04/2025",
+        "expiry_date": "09/04/2027",
+        "path": ""
+      },
+      {
+        "batch_no": "0029653688",
+        "manufacture_date": "03/09/2025",
+        "expiry_date": "03/09/2027",
+        "path": ""
+      }
+    ]
+  },
+  "ICHNL-0000000099": {
+    "material_name": "Mascid 1499",
+    "coa_list": [
+      {
+        "batch_no": "B11815DMB3A1F",
+        "manufacture_date": "20/04/2025",
+        "expiry_date": "20/10/2026",
+        "path": ""
+      },
+      {
+        "batch_no": "A39115HMB3A1F",
+        "manufacture_date": "17/08/2025",
+        "expiry_date": "17/02/2027",
+        "path": ""
+      }
+    ]
+  },
+  "ICHNL-0000000100": {
+    "material_name": "Mascid 1299",
+    "coa_list": [
+      {
+        "batch_no": "A18715DMB3A1F",
+        "manufacture_date": "22/04/2025",
+        "expiry_date": "22/10/2026",
+        "path": ""
+      },
+      {
+        "batch_no": "A41115HMB3A1F",
+        "manufacture_date": "28/08/2025",
+        "expiry_date": "28/02/2027",
+        "path": ""
+      }
+    ]
+  },
+  "ICHNL-0000000101": {
+    "material_name": "Mascid 1895",
+    "coa_list": [
+      {
+        "batch_no": "A01225CMB3A1F",
+        "manufacture_date": "29/01/2025",
+        "expiry_date": "29/07/2026",
+        "path": ""
+      },
+      {
+        "batch_no": "B28815IMB3A1B",
+        "manufacture_date": "17/09/2025",
+        "expiry_date": "17/03/2027",
+        "path": ""
+      }
+    ]
+  },
+  "ICHNL-0000000102": {
+    "material_name": "Aristoflex AVC",
+    "coa_list": [
+      {
+        "batch_no": "20241127",
+        "manufacture_date": "27/11/2024",
+        "expiry_date": "26/11/2026",
+        "path": ""
+      }
+    ]
+  },
+  "ICHNL-0000000103": {
+    "material_name": "Mascol 16/98P Cetyl Alcohol Pastilles",
+    "coa_list": []
+  },
+  "ICHNL-0000000104": {
+    "material_name": "Flake Shaped Barium Sulfate H",
+    "coa_list": [
+      {
+        "batch_no": "52157",
+        "manufacture_date": "14/03/2023",
+        "expiry_date": "14/03/2026",
+        "path": "/ICHNL-0000000104/52157.pdf"
+      }
+    ]
+  },
+  "ICHNL-0000000105": {
+    "material_name": "Sunsphere H-121-N",
+    "coa_list": [
+      {
+        "batch_no": "248N1A711",
+        "manufacture_date": "19/08/2024",
+        "expiry_date": "18/08/2026",
+        "path": ""
+      }
+    ]
+  },
+  "ICHNL-0000000106": {
+    "material_name": "Parleam 4 [Hydrogenated Polyisobutene]",
+    "coa_list": [
+      {
+        "batch_no": "850118",
+        "manufacture_date": "26/01/2025",
+        "expiry_date": "25/01/2027",
+        "path": "/ICHNL-0000000106/850118.pdf"
+      },
+      {
+        "batch_no": "850510",
+        "manufacture_date": "17/05/2025",
+        "expiry_date": "16/05/2027",
+        "path": ""
+      },
+      {
+        "batch_no": "851008",
+        "manufacture_date": "12/10/2025",
+        "expiry_date": "11/10/2027",
+        "path": "/ICHNL-0000000106/851008.pdf"
+      },
+      {
+        "batch_no": "850308",
+        "manufacture_date": "29/03/2025",
+        "expiry_date": "28/03/2027",
+        "path": ""
+      },
+      {
+        "batch_no": "851101",
+        "manufacture_date": "01/11/2025",
+        "expiry_date": "31/10/2027",
+        "path": "/ICHNL-0000000106/851101_851112.pdf"
+      }
+    ]
+  },
+  "ICHNL-0000000107": {
+    "material_name": "Xylitol",
+    "coa_list": [
+      {
+        "batch_no": "XC1241452",
+        "manufacture_date": "01/11/2024",
+        "expiry_date": "30/10/2026",
+        "path": ""
+      }
+    ]
+  },
+  "ICHNL-0000000108": {
+    "material_name": "Blanose Sodium Carboxymethylcellulose 7HF",
+    "coa_list": [
+      {
+        "batch_no": "C241545",
+        "manufacture_date": "26/04/2024",
+        "expiry_date": "26/04/2027",
+        "path": "/ICHNL-0000000108/BLANOSE CMC 7HF (25KGBAG) - C241545 (949ASHLAND24).pdf"
+      }
+    ]
+  },
+  "ICHNL-0000000109": {
+    "material_name": "Menthol Crystals",
+    "coa_list": [
+      {
+        "batch_no": "026MCR1265",
+        "manufacture_date": "01/04/2025",
+        "expiry_date": "01/04/2029",
+        "path": ""
+      }
+    ]
+  },
+  "ICHNL-0000000110": {
+    "material_name": "Miconium PQ10-J3000 [Polyquaternium-10]",
+    "coa_list": [
+      {
+        "batch_no": "250525Q3",
+        "manufacture_date": "25/05/2025",
+        "expiry_date": "24/05/2027",
+        "path": "/ICHNL-0000000110/250525Q3.jpg"
+      }
+    ]
+  },
+  "ICHNL-0000000111": {
+    "material_name": "Cosman C14S",
+    "coa_list": [
+      {
+        "batch_no": "2025303",
+        "manufacture_date": "03/03/2025",
+        "expiry_date": "02/03/2027",
+        "path": ""
+      }
+    ]
+  },
+  "ICHNL-0000000112": {
+    "material_name": "Lauropan T/20",
+    "coa_list": [
+      {
+        "batch_no": "50202",
+        "manufacture_date": "01/06/2024",
+        "expiry_date": "01/06/2026",
+        "path": ""
+      }
+    ]
+  },
+  "ICHNL-0000000113": {
+    "material_name": "Tris Amino Ultra PC, Tromethamine",
+    "coa_list": [
+      {
+        "batch_no": "D609O39091",
+        "manufacture_date": "09/03/2024",
+        "expiry_date": "09/03/2027",
+        "path": "/ICHNL-0000000113/32_78100_316569_D609O39091.pdf"
+      }
+    ]
+  },
+  "ICHNL-0000000114": {
+    "material_name": "Tagua Powder White Mesh 60/100",
+    "coa_list": [
+      {
+        "batch_no": "163",
+        "manufacture_date": "24/04/2024",
+        "expiry_date": "23/04/2027",
+        "path": "/ICHNL-0000000114/163.jpg"
+      }
+    ]
+  },
+  "ICHNL-0000000115": {
+    "material_name": "Methyl Salicylate",
+    "coa_list": [
+      {
+        "batch_no": "J2412001",
+        "manufacture_date": "06/12/2024",
+        "expiry_date": "05/12/2027",
+        "path": ""
+      }
+    ]
+  },
+  "ICHNL-0000000116": {
+    "material_name": "Spec White PAD",
+    "coa_list": [
+      {
+        "batch_no": "20250116",
+        "manufacture_date": "16/01/2025",
+        "expiry_date": "15/01/2027",
+        "path": ""
+      }
+    ]
+  },
+  "ICHNL-0000000117": {
+    "material_name": "Corum 4013",
+    "coa_list": [
+      {
+        "batch_no": "AA845701",
+        "manufacture_date": "10/03/2025",
+        "expiry_date": "10/03/2027",
+        "path": "/ICHNL-0000000117/AA845701.pdf"
+      }
+    ]
+  },
+  "ICHNL-0000000118": {
+    "material_name": "Polyglykol 1500 S",
+    "coa_list": [
+      {
+        "batch_no": "CNP1039789",
+        "manufacture_date": "29/03/2024",
+        "expiry_date": "29/03/2026",
+        "path": ""
+      }
+    ]
+  },
+  "ICHNL-0000000119": {
+    "material_name": "Neopal Lan 75",
+    "coa_list": [
+      {
+        "batch_no": "113855",
+        "manufacture_date": "01/10/2024",
+        "expiry_date": "01/10/2026",
+        "path": ""
+      }
+    ]
+  },
+  "ICHNL-0000000120": {
+    "material_name": "Genamin KDMP",
+    "coa_list": [
+      {
+        "batch_no": "IDAA140778",
+        "manufacture_date": "24/07/2025",
+        "expiry_date": "14/07/2027",
+        "path": ""
+      },
+      {
+        "batch_no": "IDAA142726",
+        "manufacture_date": "01/11/2025",
+        "expiry_date": "22/10/2027",
+        "path": "/ICHNL-0000000120/IDAA142726.pdf"
+      }
+    ]
+  },
+  "ICHNL-0000000121": {
+    "material_name": "T.I.O",
+    "coa_list": [
+      {
+        "batch_no": "4-11-A",
+        "manufacture_date": "07/11/2024",
+        "expiry_date": "07/11/2027",
+        "path": "/ICHNL-0000000121/4-11-A.pdf"
+      },
+      {
+        "batch_no": "4-11-B",
+        "manufacture_date": "08/11/2024",
+        "expiry_date": "08/11/2027",
+        "path": ""
+      },
+      {
+        "batch_no": "50305",
+        "manufacture_date": "24/03/2025",
+        "expiry_date": "24/03/2028",
+        "path": "/ICHNL-0000000121/50305.pdf"
+      }
+    ]
+  },
+  "ICHNL-0000000122": {
+    "material_name": "KF-6038",
+    "coa_list": [
+      {
+        "batch_no": "506340",
+        "manufacture_date": "27/07/2025",
+        "expiry_date": "26/07/2027",
+        "path": ""
+      }
+    ]
+  },
+  "ICHNL-0000000123": {
+    "material_name": "Diapon K-SF",
+    "coa_list": [
+      {
+        "batch_no": "50745B",
+        "manufacture_date": "14/07/2025",
+        "expiry_date": "13/07/2027",
+        "path": "/ICHNL-0000000123/50739B_50745B.pdf"
+      },
+      {
+        "batch_no": "50911B",
+        "manufacture_date": "17/09/2025",
+        "expiry_date": "16/09/2027",
+        "path": ""
+      }
+    ]
+  },
+  "ICHNL-0000000124": {
+    "material_name": "FHD-600",
+    "coa_list": [
+      {
+        "batch_no": "FHD-250116-60",
+        "manufacture_date": "16/01/2025",
+        "expiry_date": "15/01/2027",
+        "path": ""
+      },
+      {
+        "batch_no": "FHD-250830-60",
+        "manufacture_date": "30/08/2025",
+        "expiry_date": "29/08/2027",
+        "path": ""
+      }
+    ]
+  },
+  "ICHNL-0000000125": {
+    "material_name": "Cosmol 168ARV",
+    "coa_list": [
+      {
+        "batch_no": "4-8-A",
+        "manufacture_date": "30/08/2024",
+        "expiry_date": "30/08/2027",
+        "path": ""
+      }
+    ]
+  },
+  "ICHNL-0000000126": {
+    "material_name": "Cosmol 182V",
+    "coa_list": [
+      {
+        "batch_no": "4-5-C",
+        "manufacture_date": "22/05/2024",
+        "expiry_date": "22/05/2027",
+        "path": ""
+      },
+      {
+        "batch_no": "5-11-A",
+        "manufacture_date": "12/11/2025",
+        "expiry_date": "12/11/2028",
+        "path": "/ICHNL-0000000126/IWAC182V_15016.pdf"
+      }
+    ]
+  },
+  "ICHNL-0000000127": {
+    "material_name": "Cosmol 222",
+    "coa_list": [
+      {
+        "batch_no": "4-12-D",
+        "manufacture_date": "12/12/2024",
+        "expiry_date": "12/12/2027",
+        "path": ""
+      }
+    ]
+  },
+  "ICHNL-0000000128": {
+    "material_name": "Sunsphere H-53",
+    "coa_list": [
+      {
+        "batch_no": "247E5A711",
+        "manufacture_date": "15/07/2024",
+        "expiry_date": "14/07/2026",
+        "path": ""
+      }
+    ]
+  },
+  "ICHNL-0000000129": {
+    "material_name": "FR/13689A",
+    "coa_list": [
+      {
+        "batch_no": "FR13689A20325-01",
+        "manufacture_date": "22/07/2025",
+        "expiry_date": "22/07/2030",
+        "path": ""
+      }
+    ]
+  },
+  "ICHNL-0000000130": {
+    "material_name": "Emul 34C",
+    "coa_list": [
+      {
+        "batch_no": "J250208182",
+        "manufacture_date": "08/02/2025",
+        "expiry_date": "07/02/2026",
+        "path": ""
+      }
+    ]
+  },
+  "ICHNL-0000000131": {
+    "material_name": "Butylene Glycol",
+    "coa_list": [
+      {
+        "batch_no": "BG(C)250519",
+        "manufacture_date": "19/05/2025",
+        "expiry_date": "18/05/2027",
+        "path": "/ICHNL-0000000131/BG(C)250519.pdf"
+      }
+    ]
+  },
+  "ICHNL-0000000132": {
+    "material_name": "Resassol HR",
+    "coa_list": [
+      {
+        "batch_no": "24207155",
+        "manufacture_date": "18/07/2024",
+        "expiry_date": "17/07/2026",
+        "path": ""
+      },
+      {
+        "batch_no": "25207920",
+        "manufacture_date": "16/04/2025",
+        "expiry_date": "15/04/2027",
+        "path": ""
+      },
+      {
+        "batch_no": "24207616",
+        "manufacture_date": "22/01/2025",
+        "expiry_date": "21/01/2027",
+        "path": "/ICHNL-0000000132/"
+      }
+    ]
+  },
+  "ICHNL-0000000133": {
+    "material_name": "Transcutol CG",
+    "coa_list": [
+      {
+        "batch_no": "205369",
+        "manufacture_date": "01/02/2025",
+        "expiry_date": "29/02/2028",
+        "path": ""
+      }
+    ]
+  },
+  "ICHNL-0000000134": {
+    "material_name": "Peach Bubbe 384",
+    "coa_list": [
+      {
+        "batch_no": "0017952642",
+        "manufacture_date": "14/02/2025",
+        "expiry_date": "14/02/2026",
+        "path": ""
+      }
+    ]
+  },
+  "ICHNL-0000000135": {
+    "material_name": "Silsoft AM 2222C PMF emulsion",
+    "coa_list": [
+      {
+        "batch_no": "25FNTA008",
+        "manufacture_date": "25/06/2025",
+        "expiry_date": "25/06/2026",
+        "path": ""
+      }
+    ]
+  },
+  "ICHNL-0000000136": {
+    "material_name": "Silsoft Bapd",
+    "coa_list": [
+      {
+        "batch_no": "25JTHA014",
+        "manufacture_date": "02/09/2025",
+        "expiry_date": "02/09/2027",
+        "path": ""
+      }
+    ]
+  },
+  "ICHNL-0000000137": {
+    "material_name": "DMDM Hydantion",
+    "coa_list": [
+      {
+        "batch_no": "DND/2024-25/051",
+        "manufacture_date": "01/08/2024",
+        "expiry_date": "01/08/2026",
+        "path": ""
+      }
+    ]
+  },
+  "ICHNL-0000000138": {
+    "material_name": "Aevum Vita 500",
+    "coa_list": [
+      {
+        "batch_no": "ISC21813",
+        "manufacture_date": "04/06/2025",
+        "expiry_date": "04/06/2027",
+        "path": "/ICHNL-0000000138/ISC21813.pdf"
+      },
+      {
+        "batch_no": "ISC21053",
+        "manufacture_date": "01/03/2021",
+        "expiry_date": "01/03/2023",
+        "path": "/ICHNL-0000000138/ISC21053.pdf"
+      }
+    ]
+  },
+  "ICHNL-0000000139": {
+    "material_name": "PRO*CRE-MGDOE120",
+    "coa_list": [
+      {
+        "batch_no": "E110391",
+        "manufacture_date": "11/03/2025",
+        "expiry_date": "10/03/2027",
+        "path": ""
+      }
+    ]
+  },
+  "ICHNL-0000000140": {
+    "material_name": "Regrease AB",
+    "coa_list": [
+      {
+        "batch_no": "YE2004250809901",
+        "manufacture_date": "09/08/2025",
+        "expiry_date": "08/08/2027",
+        "path": ""
+      },
+      {
+        "batch_no": "YE2004251017902",
+        "manufacture_date": "17/10/2025",
+        "expiry_date": "16/10/2027",
+        "path": "/ICHNL-0000000140/YE2004251017902.pdf"
+      },
+      {
+        "batch_no": "YE2004251116904",
+        "manufacture_date": "16/11/2025",
+        "expiry_date": "15/11/2027",
+        "path": ""
+      },
+      {
+        "batch_no": "YE2004251027903",
+        "manufacture_date": "27/10/2025",
+        "expiry_date": "16/10/2027",
+        "path": ""
+      }
+    ]
+  },
+  "ICHNL-0000000141": {
+    "material_name": "White Oil / Paraffin Oil",
+    "coa_list": [
+      {
+        "batch_no": "WTD9590825",
+        "manufacture_date": "01/08/2025",
+        "expiry_date": "01/07/2027",
+        "path": "/ICHNL-0000000141/WTD9590825.pdf"
+      }
+    ]
+  },
+  "ICHNL-0000000142": {
+    "material_name": "Texapon N 70 T",
+    "coa_list": [
+      {
+        "batch_no": "0029602386",
+        "manufacture_date": "11/08/2025",
+        "expiry_date": "11/08/2026",
+        "path": ""
+      },
+      {
+        "batch_no": "0029754902",
+        "manufacture_date": "16/10/2025",
+        "expiry_date": "16/10/2026",
+        "path": ""
+      },
+      {
+        "batch_no": "0029806611",
+        "manufacture_date": "10/11/2025",
+        "expiry_date": "10/11/2026",
+        "path": "/ICHNL-0000000142/0029806611-FTAU1731761.pdf"
+      }
+    ]
+  },
+  "ICHNL-0000000143": {
+    "material_name": "Neosorb 70/70 - Sirop DE Syrup Sorbitol",
+    "coa_list": [
+      {
+        "batch_no": "1158439",
+        "manufacture_date": "17/02/2025",
+        "expiry_date": "16/02/2030",
+        "path": ""
+      }
+    ]
+  },
+  "ICHNL-0000000144": {
+    "material_name": "Propylene Glycol USP",
+    "coa_list": [
+      {
+        "batch_no": "KI9253PU1B",
+        "manufacture_date": "25/09/2025",
+        "expiry_date": "24/09/2027",
+        "path": ""
+      },
+      {
+        "batch_no": "KIB183PU1B",
+        "manufacture_date": "18/12/2025",
+        "expiry_date": "17/12/2027",
+        "path": "/ICHNL-0000000144/KIB183PU1B.pdf"
+      }
+    ]
+  },
+  "ICHNL-0000000145": {
+    "material_name": "Propylene Glycol USP/EP",
+    "coa_list": [
+      {
+        "batch_no": "GX250704L4",
+        "manufacture_date": "31/03/2025",
+        "expiry_date": "31/03/2027",
+        "path": "/ICHNL-0000000145/GX250704L4.pdf"
+      },
+      {
+        "batch_no": "GX251205L0",
+        "manufacture_date": "08/09/2025",
+        "expiry_date": "08/09/2027",
+        "path": ""
+      }
+    ]
+  },
+  "ICHNL-0000000146": {
+    "material_name": "Dehyton KE-AS",
+    "coa_list": [
+      {
+        "batch_no": "0029438642",
+        "manufacture_date": "03/06/2025",
+        "expiry_date": "03/06/2026",
+        "path": "/ICHNL-0000000146/0029438642.pdf"
+      },
+      {
+        "batch_no": "0029676504",
+        "manufacture_date": "10/09/2025",
+        "expiry_date": "10/09/2026",
+        "path": ""
+      }
+    ]
+  },
+  "ICHNL-0000000147": {
+    "material_name": "Dowsil CE-7051 POE Emulsion",
+    "coa_list": [
+      {
+        "batch_no": "H054P8H001",
+        "manufacture_date": "17/08/2025",
+        "expiry_date": "10/11/2026",
+        "path": "/ICHNL-0000000147/H054P8H001.pdf"
+      }
+    ]
+  },
+  "ICHNL-0000000148": {
+    "material_name": "Belsil DM 10 Dimethicome",
+    "coa_list": [
+      {
+        "batch_no": "OM49500",
+        "manufacture_date": "14/09/2024",
+        "expiry_date": "04/09/2026",
+        "path": "/ICHNL-0000000148/OM49500.pdf"
+      },
+      {
+        "batch_no": "OM49958",
+        "manufacture_date": "04/06/2025",
+        "expiry_date": "25/05/2027",
+        "path": ""
+      },
+      {
+        "batch_no": "OM49167",
+        "manufacture_date": "27/03/2024",
+        "expiry_date": "17/03/2026",
+        "path": "/ICHNL-0000000148/OM49167.pdf"
+      },
+      {
+        "batch_no": "OM47914",
+        "manufacture_date": "11/05/2022",
+        "expiry_date": "30/04/2024",
+        "path": "/ICHNL-0000000148/OM47914.pdf"
+      }
+    ]
+  },
+  "ICHNL-0000000149": {
+    "material_name": "Mascerol Glycerine 99.7% USP",
+    "coa_list": [
+      {
+        "batch_no": "034315JND3C5L",
+        "manufacture_date": "09/10/2025",
+        "expiry_date": "09/10/2027",
+        "path": "/ICHNL-0000000149/034315JND3C5L_034415JND3C5L.pdf"
+      },
+      {
+        "batch_no": "016315END3C5L",
+        "manufacture_date": "03/05/2025",
+        "expiry_date": "03/11/2026",
+        "path": ""
+      }
+    ]
+  },
+  "ICHNL-0000000150": {
+    "material_name": "Zemea Propanediol",
+    "coa_list": [
+      {
+        "batch_no": "LP25I00133",
+        "manufacture_date": "17/09/2025",
+        "expiry_date": "17/09/2027",
+        "path": ""
+      },
+      {
+        "batch_no": "LP25I00155",
+        "manufacture_date": "18/09/2025",
+        "expiry_date": "18/09/2027",
+        "path": "/ICHNL-0000000150/LP25I00155.pdf"
+      },
+      {
+        "batch_no": "LP25K00011",
+        "manufacture_date": "04/11/2025",
+        "expiry_date": "04/11/2027",
+        "path": "/ICHNL-0000000150/LP25K00011.pdf"
+      }
+    ]
+  },
+  "ICHNL-0000000151": {
+    "material_name": "Plantacare 2000 UP",
+    "coa_list": [
+      {
+        "batch_no": "K25411J121",
+        "manufacture_date": "11/04/2025",
+        "expiry_date": "11/04/2027",
+        "path": "/ICHNL-0000000151/K25411J121.pdf"
+      }
+    ]
+  },
+  "ICHNL-0000000152": {
+    "material_name": "2028426 Savage M VP200711",
+    "coa_list": [
+      {
+        "batch_no": "2032114",
+        "manufacture_date": "27/02/2024",
+        "expiry_date": "27/02/2027",
+        "path": ""
+      },
+      {
+        "batch_no": "1986133",
+        "manufacture_date": "16/12/2024",
+        "expiry_date": "16/12/2026",
+        "path": ""
+      }
+    ]
+  },
+  "ICHNL-0000000153": {
+    "material_name": "2001043 Black Afgano",
+    "coa_list": [
+      {
+        "batch_no": "2059625",
+        "manufacture_date": "04/04/2025",
+        "expiry_date": "04/04/2027",
+        "path": ""
+      }
+    ]
+  },
+  "ICHNL-0000000154": {
+    "material_name": "2005329 Rose Derussie TF",
+    "coa_list": [
+      {
+        "batch_no": "2079629",
+        "manufacture_date": "06/05/2025",
+        "expiry_date": "06/05/2027",
+        "path": ""
+      },
+      {
+        "batch_no": "2129403",
+        "manufacture_date": "16/07/2025",
+        "expiry_date": "16/07/2027",
+        "path": ""
+      }
+    ]
+  },
+  "ICHNL-0000000155": {
+    "material_name": "2025056 Red Baccarat F ",
+    "coa_list": [
+      {
+        "batch_no": "2079628",
+        "manufacture_date": "06/05/2025",
+        "expiry_date": "06/05/2027",
+        "path": ""
+      },
+      {
+        "batch_no": "2219687",
+        "manufacture_date": "12/11/2025",
+        "expiry_date": "12/11/2027",
+        "path": ""
+      },
+      {
+        "batch_no": "2231163",
+        "manufacture_date": "02/12/2025",
+        "expiry_date": "02/12/2027",
+        "path": "/ICHNL-0000000155/2231163.pdf"
+      }
+    ]
+  },
+  "ICHNL-0000000156": {
+    "material_name": "2049300 Velvet Scandal ",
+    "coa_list": [
+      {
+        "batch_no": "2083279",
+        "manufacture_date": "09/05/2025",
+        "expiry_date": "09/05/2027",
+        "path": ""
+      }
+    ]
+  },
+  "ICHNL-0000000157": {
+    "material_name": "2020081 Another 13 VP200603",
+    "coa_list": [
+      {
+        "batch_no": "2025861",
+        "manufacture_date": "01/02/2025",
+        "expiry_date": "01/02/2027",
+        "path": ""
+      }
+    ]
+  },
+  "ICHNL-0000000158": {
+    "material_name": "FR/12253",
+    "coa_list": [
+      {
+        "batch_no": "FR1225318525-01",
+        "manufacture_date": "04/07/2025",
+        "expiry_date": "04/07/2030",
+        "path": "/ICHNL-0000000158/FR1225318525-01.pdf"
+      },
+      {
+        "batch_no": "FR1225303725-01",
+        "manufacture_date": "06/02/2025",
+        "expiry_date": "06/02/2030",
+        "path": ""
+      },
+      {
+        "batch_no": "FR1225331624-01",
+        "manufacture_date": "12/11/2024",
+        "expiry_date": "12/11/2029",
+        "path": "/ICHNL-0000000158/FR1225331624-01.pdf"
+      }
+    ]
+  },
+  "ICHNL-0000000159": {
+    "material_name": "Le Labo Fragrance AFR-15247",
+    "coa_list": [
+      {
+        "batch_no": "202514108",
+        "manufacture_date": "01/08/2025",
+        "expiry_date": "01/08/2026",
+        "path": ""
+      },
+      {
+        "batch_no": "202512656",
+        "manufacture_date": "01/06/2025",
+        "expiry_date": "01/06/2026",
+        "path": "/ICHNL-0000000159/202512656.pdf"
+      },
+      {
+        "batch_no": "202610091",
+        "manufacture_date": "01/01/2026",
+        "expiry_date": "01/01/2027",
+        "path": ""
+      }
+    ]
+  },
+  "ICHNL-0000000160": {
+    "material_name": "Bombshell Fragrance AFR-2406",
+    "coa_list": [
+      {
+        "batch_no": "202512260",
+        "manufacture_date": "01/04/2025",
+        "expiry_date": "01/10/2026",
+        "path": ""
+      },
+      {
+        "batch_no": "202510728",
+        "manufacture_date": "01/02/2025",
+        "expiry_date": "01/08/2026",
+        "path": "/ICHNL-0000000160/202510728.pdf"
+      }
+    ]
+  },
+  "ICHNL-0000000161": {
+    "material_name": "FR/12098B",
+    "coa_list": [
+      {
+        "batch_no": "0582501",
+        "manufacture_date": "27/02/2025",
+        "expiry_date": "27/02/2030",
+        "path": ""
+      },
+      {
+        "batch_no": "0602501",
+        "manufacture_date": "01/03/2025",
+        "expiry_date": "01/03/2030",
+        "path": ""
+      }
+    ]
+  },
+  "ICHNL-0000000162": {
+    "material_name": "STRAWBERRY FLAVOURING WA AAL-50-42521",
+    "coa_list": [
+      {
+        "batch_no": "202514376",
+        "manufacture_date": "01/09/2025",
+        "expiry_date": "01/09/2026",
+        "path": ""
+      },
+      {
+        "batch_no": "202515874",
+        "manufacture_date": "01/12/2025",
+        "expiry_date": "01/12/2026",
+        "path": ""
+      },
+      {
+        "batch_no": "202610047",
+        "manufacture_date": "01/01/2026",
+        "expiry_date": "01/01/2027",
+        "path": ""
+      }
+    ]
+  },
+  "ICHNL-0000000163": {
+    "material_name": "PEACH FLAVOURING WA AAL-50-44095",
+    "coa_list": [
+      {
+        "batch_no": "202512052",
+        "manufacture_date": "01/04/2025",
+        "expiry_date": "01/04/2026",
+        "path": ""
+      }
+    ]
+  },
+  "ICHNL-0000000164": {
+    "material_name": "CINNAMON MINT FLAVOURING WA AAL-44205",
+    "coa_list": [
+      {
+        "batch_no": "202510692",
+        "manufacture_date": "01/02/2025",
+        "expiry_date": "01/02/2026",
+        "path": "/ICHNL-0000000164/202510692.pdf"
+      },
+      {
+        "batch_no": "202512280",
+        "manufacture_date": "01/04/2025",
+        "expiry_date": "01/04/2026",
+        "path": ""
+      }
+    ]
+  },
+  "ICHNL-0000000165": {
+    "material_name": "2056357 LNP",
+    "coa_list": [
+      {
+        "batch_no": "205187",
+        "manufacture_date": "01/04/2025",
+        "expiry_date": "01/04/2027",
+        "path": ""
+      }
+    ]
+  },
+  "ICHNL-0000000166": {
+    "material_name": "EAU SO SEXY",
+    "coa_list": [
+      {
+        "batch_no": "JB02410419",
+        "manufacture_date": "30/10/2024",
+        "expiry_date": "30/10/2026",
+        "path": ""
+      }
+    ]
+  },
+  "ICHNL-0000000167": {
+    "material_name": "2073036 YSL LIBRE",
+    "coa_list": [
+      {
+        "batch_no": "2075487",
+        "manufacture_date": "30/04/2025",
+        "expiry_date": "30/04/2027",
+        "path": ""
+      },
+      {
+        "batch_no": "2246917",
+        "manufacture_date": "05/01/2026",
+        "expiry_date": "05/01/2028",
+        "path": "/ICHNL-0000000167/2246917.pdf"
+      }
+    ]
+  },
+  "ICHNL-0000000168": {
+    "material_name": "Pineapple Flavour",
+    "coa_list": [
+      {
+        "batch_no": "F25/0794",
+        "manufacture_date": "13/05/2025",
+        "expiry_date": "13/05/2026",
+        "path": ""
+      },
+      {
+        "batch_no": "F25/1957",
+        "manufacture_date": "07/11/2025",
+        "expiry_date": "07/11/2026",
+        "path": "/ICHNL-0000000168/Pineapple Flavour P2298S.pdf"
+      },
+      {
+        "batch_no": "F25/2263",
+        "manufacture_date": "16/12/2025",
+        "expiry_date": "16/12/2026",
+        "path": "/ICHNL-0000000168/Pineapple Flavour.pdf"
+      }
+    ]
+  },
+  "ICHNL-0000000169": {
+    "material_name": "Hương Good Bloom",
+    "coa_list": [
+      {
+        "batch_no": "TB02502518",
+        "manufacture_date": "27/03/2025",
+        "expiry_date": "27/03/2027",
+        "path": ""
+      }
+    ]
+  },
+  "ICHNL-0000000170": {
+    "material_name": "SOHK048494 GOOD BLOM",
+    "coa_list": [
+      {
+        "batch_no": "JB02403579",
+        "manufacture_date": "01/04/2024",
+        "expiry_date": "01/04/2026",
+        "path": ""
+      }
+    ]
+  },
+  "ICHNL-0000000171": {
+    "material_name": "2073645 SIANG PURE OIL",
+    "coa_list": [
+      {
+        "batch_no": "2067487",
+        "manufacture_date": "01/04/2025",
+        "expiry_date": "01/04/2027",
+        "path": ""
+      },
+      {
+        "batch_no": "2225507",
+        "manufacture_date": "22/11/2025",
+        "expiry_date": "22/11/2027",
+        "path": ""
+      }
+    ]
+  },
+  "ICHNL-0000000172": {
+    "material_name": "Perfume Fragrance (Sexy Man 212) QHY1113",
+    "coa_list": [
+      {
+        "batch_no": "YH-250416574-QHY1113",
+        "manufacture_date": "16/04/2025",
+        "expiry_date": "16/04/2027",
+        "path": "/ICHNL-0000000172/YH-250416574-QHY1113.pdf"
+      },
+      {
+        "batch_no": "Y-250614537-QHY113",
+        "manufacture_date": "14/06/2025",
+        "expiry_date": "14/06/2027",
+        "path": ""
+      }
+    ]
+  },
+  "ICHNL-0000000173": {
+    "material_name": "Ambree Fragrance 675832",
+    "coa_list": [
+      {
+        "batch_no": "2025055755 / 675832",
+        "manufacture_date": "29/05/2025",
+        "expiry_date": "28/05/2028",
+        "path": "/ICHNL-0000000173/2025055755_675832.pdf"
+      },
+      {
+        "batch_no": "2025105251 / 675832",
+        "manufacture_date": "15/10/2025",
+        "expiry_date": "14/10/2028",
+        "path": "/ICHNL-0000000173/2025105251_675832.pdf"
+      },
+      {
+        "batch_no": "2025115319 / 675832",
+        "manufacture_date": "13/11/2025",
+        "expiry_date": "12/11/2028",
+        "path": ""
+      }
+    ]
+  },
+  "ICHNL-0000000174": {
+    "material_name": "Solo Blue F1208S",
+    "coa_list": [
+      {
+        "batch_no": "JB02501877",
+        "manufacture_date": "13/03/2025",
+        "expiry_date": "11/03/2027",
+        "path": ""
+      },
+      {
+        "batch_no": "JB02502517",
+        "manufacture_date": "26/03/2025",
+        "expiry_date": "26/03/2027",
+        "path": "/ICHNL-0000000174/coa solo blue.pdf"
+      }
+    ]
+  },
+  "ICHNL-0000000175": {
+    "material_name": "EAU SO SEXY CONC 2 SOHK007136",
+    "coa_list": [
+      {
+        "batch_no": "JB02502575",
+        "manufacture_date": "26/03/2025",
+        "expiry_date": "26/03/2027",
+        "path": ""
+      }
+    ]
+  },
+  "ICHNL-0000000176": {
+    "material_name": "Hương Bưởi F2197W",
+    "coa_list": [
+      {
+        "batch_no": "2504151050",
+        "manufacture_date": "15/04/2025",
+        "expiry_date": "15/04/2026",
+        "path": ""
+      }
+    ]
+  },
+  "ICHNL-0000000177": {
+    "material_name": "Double Red CSN021719",
+    "coa_list": [
+      {
+        "batch_no": "M0141019",
+        "manufacture_date": "11/06/2024",
+        "expiry_date": "11/06/2026",
+        "path": ""
+      }
+    ]
+  },
+  "ICHNL-0000000178": {
+    "material_name": "ACQUA M/0675/3",
+    "coa_list": [
+      {
+        "batch_no": "BT/507667/2019",
+        "manufacture_date": "12/02/2025",
+        "expiry_date": "12/02/2027",
+        "path": ""
+      }
+    ]
+  },
+  "ICHNL-0000000179": {
+    "material_name": "Cherry Blossom Body Wash F/02843/4",
+    "coa_list": [
+      {
+        "batch_no": "BT/416620/8509",
+        "manufacture_date": "14/07/2025",
+        "expiry_date": "14/07/2027",
+        "path": ""
+      },
+      {
+        "batch_no": "BT-705197-16381",
+        "manufacture_date": "21/11/2025",
+        "expiry_date": "21/11/2027",
+        "path": "/ICHNL-0000000179/BT-705197-16381.pdf"
+      }
+    ]
+  },
+  "ICHNL-0000000180": {
+    "material_name": "HK H2939 BLACK FANTASY FRAGRANCE",
+    "coa_list": [
+      {
+        "batch_no": "RY25041838",
+        "manufacture_date": "18/04/2025",
+        "expiry_date": "18/04/2027",
+        "path": ""
+      }
+    ]
+  },
+  "ICHNL-0000000181": {
+    "material_name": "Adora D&C Red No.33 Powder",
+    "coa_list": [
+      {
+        "batch_no": "IS24112313",
+        "manufacture_date": "15/11/2024",
+        "expiry_date": "14/11/2029",
+        "path": ""
+      },
+      {
+        "batch_no": "RD54240264",
+        "manufacture_date": "12/02/2024",
+        "expiry_date": "10/02/2029",
+        "path": "/ICHNL-0000000181/RD54240264.pdf"
+      }
+    ]
+  },
+  "ICHNL-0000000182": {
+    "material_name": "Yellow Liquid L101:1-40",
+    "coa_list": [
+      {
+        "batch_no": "VS25101929",
+        "manufacture_date": "27/10/2025",
+        "expiry_date": "26/10/2026",
+        "path": ""
+      },
+      {
+        "batch_no": "VS25071155",
+        "manufacture_date": "08/07/2025",
+        "expiry_date": "08/07/2026",
+        "path": ""
+      },
+      {
+        "batch_no": "VS25091589",
+        "manufacture_date": "12/09/2025",
+        "expiry_date": "11/09/2026",
+        "path": ""
+      },
+      {
+        "batch_no": "VS25061012",
+        "manufacture_date": "12/06/2025",
+        "expiry_date": "11/06/2026",
+        "path": ""
+      }
+    ]
+  },
+  "ICHNL-0000000183": {
+    "material_name": "Violet Liquid L701:1-120",
+    "coa_list": [
+      {
+        "batch_no": "VS25040722",
+        "manufacture_date": "26/04/2025",
+        "expiry_date": "26/04/2026",
+        "path": ""
+      }
+    ]
+  },
+  "ICHNL-0000000184": {
+    "material_name": "Red Liquid L105:1-40",
+    "coa_list": [
+      {
+        "batch_no": "VS25061059",
+        "manufacture_date": "20/06/2025",
+        "expiry_date": "19/06/2026",
+        "path": ""
+      },
+      {
+        "batch_no": "VS25030506",
+        "manufacture_date": "26/03/2025",
+        "expiry_date": "27/03/2026",
+        "path": ""
+      }
+    ]
+  },
+  "ICHNL-0000000185": {
+    "material_name": "Orange Liquid L104:1-40",
+    "coa_list": [
+      {
+        "batch_no": "VS25061060",
+        "manufacture_date": "20/06/2025",
+        "expiry_date": "19/06/2026",
+        "path": ""
+      },
+      {
+        "batch_no": "VS25030450",
+        "manufacture_date": "09/03/2025",
+        "expiry_date": "08/03/2026",
+        "path": ""
+      },
+      {
+        "batch_no": "VS25071195",
+        "manufacture_date": "09/07/2025",
+        "expiry_date": "08/07/2026",
+        "path": ""
+      }
+    ]
+  },
+  "ICHNL-0000000186": {
+    "material_name": "Orange Red Liquid L110:1-120",
+    "coa_list": [
+      {
+        "batch_no": "VS25091700",
+        "manufacture_date": "25/09/2025",
+        "expiry_date": "24/09/2026",
+        "path": ""
+      }
+    ]
+  },
+  "ICHNL-0000000187": {
+    "material_name": "Blue Liquid L107:1-40",
+    "coa_list": [
+      {
+        "batch_no": "VS25101930",
+        "manufacture_date": "27/10/2025",
+        "expiry_date": "26/10/2026",
+        "path": ""
+      },
+      {
+        "batch_no": "VS26010004",
+        "manufacture_date": "02/01/2026",
+        "expiry_date": "01/01/2027",
+        "path": ""
+      },
+      {
+        "batch_no": "VS26020218",
+        "manufacture_date": "02/02/2026",
+        "expiry_date": "01/02/2027",
+        "path": "/ICHNL-0000000187/VS26020218.pdf"
+      },
+      {
+        "batch_no": "VS26020238",
+        "manufacture_date": "04/02/2026",
+        "expiry_date": "03/02/2027",
+        "path": "/ICHNL-0000000187/VS26020238.pdf"
+      },
+      {
+        "batch_no": "VS26030432",
+        "manufacture_date": "10/03/2026",
+        "expiry_date": "09/03/2027",
+        "path": ""
+      },
+      {
+        "batch_no": "VS26030490",
+        "manufacture_date": "17/03/2026",
+        "expiry_date": "16/03/2027",
+        "path": "/ICHNL-0000000187/VS26030490.pdf"
+      }
+    ]
+  },
+  "ICHNL-0000000188": {
+    "material_name": "Brown Liquid L850:1-120",
+    "coa_list": [
+      {
+        "batch_no": "VS25101979",
+        "manufacture_date": "31/10/2025",
+        "expiry_date": "30/10/2026",
+        "path": ""
+      }
+    ]
+  },
+  "ICHNL-0000000189": {
+    "material_name": "TK Iron Oxide Yellow 2AS",
+    "coa_list": [
+      {
+        "batch_no": "AH2531CI",
+        "manufacture_date": "28/07/2025",
+        "expiry_date": "27/07/2029",
+        "path": ""
+      }
+    ]
+  },
+  "ICHNL-0000000190": {
+    "material_name": "TK Iron Oxide Red 2AS",
+    "coa_list": [
+      {
+        "batch_no": "AI2433BC-02",
+        "manufacture_date": "12/08/2024",
+        "expiry_date": "11/08/2028",
+        "path": ""
+      }
+    ]
+  },
+  "ICHNL-0000000191": {
+    "material_name": "FJBCB # 23-1802",
+    "coa_list": []
+  },
+  "ICHNL-0000000192": {
+    "material_name": "FD&C Blue No.1 Powder",
+    "coa_list": [
+      {
+        "batch_no": "BD1829",
+        "manufacture_date": "15/07/2024",
+        "expiry_date": "14/07/2030",
+        "path": ""
+      },
+      {
+        "batch_no": "BC6950",
+        "manufacture_date": "23/09/2023",
+        "expiry_date": "21/09/2029",
+        "path": ""
+      }
+    ]
+  },
+  "ICHNL-0000000193": {
+    "material_name": "Avocado Extract",
+    "coa_list": [
+      {
+        "batch_no": "F250402-01",
+        "manufacture_date": "02/04/2025",
+        "expiry_date": "01/04/2027",
+        "path": ""
+      }
+    ]
+  },
+  "ICHNL-0000000194": {
+    "material_name": "Aloe Vera Extract",
+    "coa_list": [
+      {
+        "batch_no": "F250903-01",
+        "manufacture_date": "05/09/2025",
+        "expiry_date": "04/09/2028",
+        "path": "/ICHNL-0000000194/F250903-01.pdf"
+      }
+    ]
+  },
+  "ICHNL-0000000195": {
+    "material_name": "Lake Allura Red",
+    "coa_list": [
+      {
+        "batch_no": "RL51230005",
+        "manufacture_date": "26/10/2023",
+        "expiry_date": "24/10/2028",
+        "path": ""
+      }
+    ]
+  },
+  "ICHNL-0000000196": {
+    "material_name": "Pineapple Extract",
+    "coa_list": [
+      {
+        "batch_no": "EG0801",
+        "manufacture_date": "08/07/2025",
+        "expiry_date": "07/07/2027",
+        "path": ""
+      },
+      {
+        "batch_no": "EF1301",
+        "manufacture_date": "13/06/2025",
+        "expiry_date": "12/06/2027",
+        "path": ""
+      }
+    ]
+  },
+  "ICHNL-0000000197": {
+    "material_name": "Orange Extract 402",
+    "coa_list": [
+      {
+        "batch_no": "DF1901",
+        "manufacture_date": "19/06/2024",
+        "expiry_date": "18/06/2026",
+        "path": ""
+      },
+      {
+        "batch_no": "DJ2801",
+        "manufacture_date": "28/10/2024",
+        "expiry_date": "27/10/2026",
+        "path": ""
+      }
+    ]
+  },
+  "ICHNL-0000000198": {
+    "material_name": "Balsam Pear Extract",
+    "coa_list": [
+      {
+        "batch_no": "EL1501",
+        "manufacture_date": "15/09/2025",
+        "expiry_date": "14/09/2027",
+        "path": ""
+      },
+      {
+        "batch_no": "EG0801",
+        "manufacture_date": "08/07/2025",
+        "expiry_date": "07/07/2027",
+        "path": "/ICHNL-0000000198/EG0801.pdf"
+      }
+    ]
+  },
+  "ICHNL-0000000199": {
+    "material_name": "Moringa Seed Extract",
+    "coa_list": [
+      {
+        "batch_no": "DL0301",
+        "manufacture_date": "03/09/2024",
+        "expiry_date": "02/09/2026",
+        "path": ""
+      },
+      {
+        "batch_no": "BD2701",
+        "manufacture_date": "22/12/2023",
+        "expiry_date": "21/12/2025",
+        "path": ""
+      }
+    ]
+  },
+  "ICHNL-0000000200": {
+    "material_name": "Camomile Extract",
+    "coa_list": [
+      {
+        "batch_no": "EC3101",
+        "manufacture_date": "31/03/2025",
+        "expiry_date": "30/03/2027",
+        "path": ""
+      }
+    ]
+  },
+  "ICHNL-0000000201": {
+    "material_name": "CS-Ginger Extract",
+    "coa_list": [
+      {
+        "batch_no": "EI2501",
+        "manufacture_date": "25/09/2025",
+        "expiry_date": "24/09/2027",
+        "path": ""
+      },
+      {
+        "batch_no": "EK2701",
+        "manufacture_date": "27/11/2025",
+        "expiry_date": "26/11/2027",
+        "path": "/ICHNL-0000000201/VE1307A  CS-Ginger Ext(COA_E)_EK2701.pdf"
+      }
+    ]
+  },
+  "ICHNL-0000000202": {
+    "material_name": "Turmeric Oil",
+    "coa_list": [
+      {
+        "batch_no": "EH0101",
+        "manufacture_date": "01/08/2025",
+        "expiry_date": "31/07/2027",
+        "path": ""
+      }
+    ]
+  },
+  "ICHNL-0000000203": {
+    "material_name": "Ganghwa Mugwort Extract",
+    "coa_list": [
+      {
+        "batch_no": "DE2205",
+        "manufacture_date": "22/05/2025",
+        "expiry_date": "21/05/2027",
+        "path": ""
+      },
+      {
+        "batch_no": "DE2522",
+        "manufacture_date": "22/10/2025",
+        "expiry_date": "21/10/2027",
+        "path": ""
+      },
+      {
+        "batch_no": "EK2013",
+        "manufacture_date": "20/03/2025",
+        "expiry_date": "19/03/2027",
+        "path": ""
+      },
+      {
+        "batch_no": "BFA0601",
+        "manufacture_date": "06/01/2026",
+        "expiry_date": "05/01/2028",
+        "path": "/ICHNL-0000000203/BFA0601.pdf"
+      }
+    ]
+  },
+  "ICHNL-0000000204": {
+    "material_name": "Lemon Extract",
+    "coa_list": [
+      {
+        "batch_no": "EH2901",
+        "manufacture_date": "29/08/2025",
+        "expiry_date": "28/08/2027",
+        "path": ""
+      }
+    ]
+  },
+  "ICHNL-0000000205": {
+    "material_name": "NexTrac Green Tea L LC",
+    "coa_list": [
+      {
+        "batch_no": "LE-GT0403BA102",
+        "manufacture_date": "04/03/2025",
+        "expiry_date": "03/03/2027",
+        "path": "/ICHNL-0000000205/LE-GT0403BA102.pdf"
+      }
+    ]
+  },
+  "ICHNL-0000000206": {
+    "material_name": "Refind Microcrystalline Wax",
+    "coa_list": [
+      {
+        "batch_no": "24-009",
+        "manufacture_date": "28/02/2024",
+        "expiry_date": "28/02/2027",
+        "path": "/ICHNL-0000000206/24-009.pdf"
+      }
+    ]
+  },
+  "ICHNL-0000000207": {
+    "material_name": "Elastyl CC-MB",
+    "coa_list": [
+      {
+        "batch_no": "AA849301",
+        "manufacture_date": "10/01/2025",
+        "expiry_date": "10/01/2027",
+        "path": "/ICHNL-0000000207/AA849301.pdf"
+      },
+      {
+        "batch_no": "AD880521",
+        "manufacture_date": "03/12/2025",
+        "expiry_date": "03/12/2027",
+        "path": "/ICHNL-0000000207/AD880521.pdf"
+      }
+    ]
+  },
+  "ICHNL-0000000208": {
+    "material_name": "2047468 Cuir Paeonia F",
+    "coa_list": [
+      {
+        "batch_no": "1929865",
+        "manufacture_date": "20/09/2024",
+        "expiry_date": "20/09/2026",
+        "path": ""
+      },
+      {
+        "batch_no": "2124398",
+        "manufacture_date": "08/07/2025",
+        "expiry_date": "08/07/2027",
+        "path": "/ICHNL-0000000208/2124398.pdf"
+      },
+      {
+        "batch_no": "2124399",
+        "manufacture_date": "08/07/2025",
+        "expiry_date": "08/07/2027",
+        "path": "/ICHNL-0000000208/2124399.pdf"
+      },
+      {
+        "batch_no": "2125895",
+        "manufacture_date": "10/07/2025",
+        "expiry_date": "10/07/2027",
+        "path": ""
+      },
+      {
+        "batch_no": "2125900",
+        "manufacture_date": "10/07/2025",
+        "expiry_date": "10/07/2027",
+        "path": "/ICHNL-0000000208/2125900.pdf"
+      },
+      {
+        "batch_no": "2118905",
+        "manufacture_date": "01/07/2025",
+        "expiry_date": "01/07/2027",
+        "path": "/ICHNL-0000000208/2118905.pdf"
+      }
+    ]
+  },
+  "ICHNL-0000000209": {
+    "material_name": "Redensyl",
+    "coa_list": [
+      {
+        "batch_no": "VO00009147",
+        "manufacture_date": "23/09/2025",
+        "expiry_date": "23/09/2027",
+        "path": ""
+      }
+    ]
+  },
+  "ICHNL-0000000210": {
+    "material_name": "Cồn luyện tinh thực phẩm Ethanol Gạo 96% VOL",
+    "coa_list": [
+      {
+        "batch_no": "Z06AL04102025",
+        "manufacture_date": "",
+        "expiry_date": "",
+        "path": ""
+      },
+      {
+        "batch_no": "Z06AL04112025",
+        "manufacture_date": "",
+        "expiry_date": "",
+        "path": ""
+      },
+      {
+        "batch_no": "Z06AL04012026",
+        "manufacture_date": "",
+        "expiry_date": "",
+        "path": ""
+      },
+      {
+        "batch_no": "Z06AL00112026",
+        "manufacture_date": "",
+        "expiry_date": "",
+        "path": ""
+      }
+    ]
+  },
+  "ICHNL-0000000211": {
+    "material_name": "Cồn Thực Phẩm",
+    "coa_list": [
+      {
+        "batch_no": "LGAD160525",
+        "manufacture_date": "16/05/2025",
+        "expiry_date": "16/05/2028",
+        "path": ""
+      },
+      {
+        "batch_no": "LGAD041225",
+        "manufacture_date": "04/12/2025",
+        "expiry_date": "04/12/2028",
+        "path": "/ICHNL-0000000211/LGAD041225-96-CON TP- QCVN.pdf"
+      }
+    ]
+  },
+  "ICHNL-0000000212": {
+    "material_name": "Cetiol HE",
+    "coa_list": [
+      {
+        "batch_no": "K257162671",
+        "manufacture_date": "16/07/2025",
+        "expiry_date": "07/01/2027",
+        "path": ""
+      },
+      {
+        "batch_no": "K234152672",
+        "manufacture_date": "15/04/2023",
+        "expiry_date": "06/10/2024",
+        "path": "/ICHNL-0000000212/K234152672.pdf"
+      },
+      {
+        "batch_no": "K247222671",
+        "manufacture_date": "22/07/2024",
+        "expiry_date": "13/01/2026",
+        "path": "/ICHNL-0000000212/K247222671.pdf"
+      },
+      {
+        "batch_no": "K814302672",
+        "manufacture_date": "30/04/2024",
+        "expiry_date": "22/10/2022",
+        "path": "/ICHNL-0000000212/K814302672.pdf"
+      },
+      {
+        "batch_no": "K22C032671",
+        "manufacture_date": "03/12/2022",
+        "expiry_date": "26/05/2024",
+        "path": "/ICHNL-0000000212/K22C032671.pdf"
+      }
+    ]
+  },
+  "ICHNL-0000000213": {
+    "material_name": "Serasense SF CM5/Cyclopentasiloxane",
+    "coa_list": [
+      {
+        "batch_no": "PA40523055",
+        "manufacture_date": "23/05/2024",
+        "expiry_date": "23/05/2026",
+        "path": ""
+      }
+    ]
+  },
+  "ICHNL-0000000214": {
+    "material_name": "Microcare PEHG",
+    "coa_list": [
+      {
+        "batch_no": "CZ5I165-2703",
+        "manufacture_date": "13/09/2025",
+        "expiry_date": "13/03/2027",
+        "path": ""
+      },
+      {
+        "batch_no": "CZ5F199-2612",
+        "manufacture_date": "20/06/2025",
+        "expiry_date": "20/12/2026",
+        "path": "/ICHNL-0000000214/CZ5F199-2612.pdf"
+      },
+      {
+        "batch_no": "CZ5I303-2703",
+        "manufacture_date": "25/09/2025",
+        "expiry_date": "25/03/2027",
+        "path": "/ICHNL-0000000214/CZ5I303-2703.pdf"
+      }
+    ]
+  },
+  "ICHNL-0000000215": {
+    "material_name": "Sepiplus 400",
+    "coa_list": [
+      {
+        "batch_no": "240530014781",
+        "manufacture_date": "29/05/2024",
+        "expiry_date": "29/05/2026",
+        "path": ""
+      },
+      {
+        "batch_no": "240717015704",
+        "manufacture_date": "17/07/2024",
+        "expiry_date": "17/07/2026",
+        "path": "/ICHNL-0000000215/COA_SSA_47490A_240717015704_COA0027486.pdf"
+      }
+    ]
+  },
+  "ICHNL-0000000216": {
+    "material_name": "Xanthan Gum Clear Sifted",
+    "coa_list": [
+      {
+        "batch_no": "244184",
+        "manufacture_date": "05/04/2024",
+        "expiry_date": "05/04/2027",
+        "path": ""
+      },
+      {
+        "batch_no": "254257",
+        "manufacture_date": "16/05/2025",
+        "expiry_date": "16/05/2028",
+        "path": ""
+      }
+    ]
+  },
+  "ICHNL-0000000217": {
+    "material_name": "Dissolvine Na2 (EDTA - NA2)",
+    "coa_list": [
+      {
+        "batch_no": "N2225190E",
+        "manufacture_date": "01/07/2025",
+        "expiry_date": "01/07/2028",
+        "path": ""
+      }
+    ]
+  },
+  "ICHNL-0000000218": {
+    "material_name": "Behenyl Alcohol 65",
+    "coa_list": [
+      {
+        "batch_no": "152661",
+        "manufacture_date": "30/07/2025",
+        "expiry_date": "29/07/2028",
+        "path": ""
+      },
+      {
+        "batch_no": "144361",
+        "manufacture_date": "03/12/2024",
+        "expiry_date": "02/12/2027",
+        "path": "/ICHNL-0000000218/144361.pdf"
+      },
+      {
+        "batch_no": "112801",
+        "manufacture_date": "15/07/2021",
+        "expiry_date": "14/07/2024",
+        "path": "/ICHNL-0000000218/112801.pdf"
+      },
+      {
+        "batch_no": "133881",
+        "manufacture_date": "14/12/2023",
+        "expiry_date": "13/12/2026",
+        "path": "/ICHNL-0000000218/133881.pdf"
+      }
+    ]
+  },
+  "ICHNL-0000000219": {
+    "material_name": "Floraesters K-20W Jojoba",
+    "coa_list": [
+      {
+        "batch_no": "KHKG018",
+        "manufacture_date": "29/08/2025",
+        "expiry_date": "28/08/2028",
+        "path": ""
+      }
+    ]
+  },
+  "ICHNL-0000000220": {
+    "material_name": "SFG D-Panthenol",
+    "coa_list": [
+      {
+        "batch_no": "250604H061",
+        "manufacture_date": "04/06/2025",
+        "expiry_date": "",
+        "path": "/ICHNL-0000000220/250604H061.pdf"
+      },
+      {
+        "batch_no": "250225H061",
+        "manufacture_date": "25/03/2025",
+        "expiry_date": "24/03/2027",
+        "path": "/ICHNL-0000000220/250225H061.pdf"
+      }
+    ]
+  },
+  "ICHNL-0000000221": {
+    "material_name": "Citric Acid",
+    "coa_list": [
+      {
+        "batch_no": "3MT2410002",
+        "manufacture_date": "01/10/2024",
+        "expiry_date": "01/10/2027",
+        "path": "/ICHNL-0000000221/3MT2410002.pdf"
+      },
+      {
+        "batch_no": "6MT2510009",
+        "manufacture_date": "28/10/2025",
+        "expiry_date": "28/10/2028",
+        "path": "/ICHNL-0000000221/6MT2510009.jpg"
+      },
+      {
+        "batch_no": "6MT2405039",
+        "manufacture_date": "20/05/2024",
+        "expiry_date": "20/05/2027",
+        "path": "/ICHNL-0000000221/6MT2405039.pdf"
+      },
+      {
+        "batch_no": "1MT2206543",
+        "manufacture_date": "25/06/2022",
+        "expiry_date": "25/06/2025",
+        "path": "/ICHNL-0000000221/1MT2206543.pdf"
+      }
+    ]
+  },
+  "ICHNL-0000000222": {
+    "material_name": "Cồn 96% V/V (Cồn Mỹ Phẩm)",
+    "coa_list": [
+      {
+        "batch_no": "64175",
+        "manufacture_date": "22/02/2023",
+        "expiry_date": "21/02/2027",
+        "path": ""
+      }
+    ]
+  },
+  "ICHNL-0000000223": {
+    "material_name": "Euperlan PCO",
+    "coa_list": [
+      {
+        "batch_no": "0029243285",
+        "manufacture_date": "10/03/2025",
+        "expiry_date": "10/03/2027",
+        "path": ""
+      },
+      {
+        "batch_no": "0029239544",
+        "manufacture_date": "08/03/2025",
+        "expiry_date": "08/03/2027",
+        "path": ""
+      }
+    ]
+  },
+  "ICHNL-0000000224": {
+    "material_name": "Cegesoft C 24 RC",
+    "coa_list": [
+      {
+        "batch_no": "K25830D082",
+        "manufacture_date": "30/08/2025",
+        "expiry_date": "30/08/2027",
+        "path": "/ICHNL-0000000224/K25830D082.pdf"
+      },
+      {
+        "batch_no": "P25901D081",
+        "manufacture_date": "01/09/2025",
+        "expiry_date": "01/09/2027",
+        "path": "/ICHNL-0000000224/P25901D081.pdf"
+      },
+      {
+        "batch_no": "K25510D081",
+        "manufacture_date": "10/05/2025",
+        "expiry_date": "10/05/2027",
+        "path": "/ICHNL-0000000224/K25510D081.pdf"
+      },
+      {
+        "batch_no": "K24A23D081",
+        "manufacture_date": "23/10/2024",
+        "expiry_date": "23/10/2026",
+        "path": "/ICHNL-0000000224/K24A23D081.pdf"
+      },
+      {
+        "batch_no": "K22131D081",
+        "manufacture_date": "31/01/2022",
+        "expiry_date": "31/01/2024",
+        "path": "/ICHNL-0000000224/K22131D081.pdf"
+      },
+      {
+        "batch_no": "K23930D081",
+        "manufacture_date": "31/01/2022",
+        "expiry_date": "31/01/2024",
+        "path": "/ICHNL-0000000224/K23930D081.pdf"
+      }
+    ]
+  },
+  "ICHNL-0000000225": {
+    "material_name": "Cosman® CR530",
+    "coa_list": [
+      {
+        "batch_no": "20250206",
+        "manufacture_date": "06/02/2025",
+        "expiry_date": "06/02/2027",
+        "path": ""
+      }
+    ]
+  },
+  "ICHNL-0000000226": {
+    "material_name": "Potassium Hydroxide 90-92%",
+    "coa_list": [
+      {
+        "batch_no": "250710",
+        "manufacture_date": "10/07/2025",
+        "expiry_date": "10/07/2026",
+        "path": ""
+      },
+      {
+        "batch_no": "260210",
+        "manufacture_date": "10/02/2026",
+        "expiry_date": "09/02/2027",
+        "path": ""
+      }
+    ]
+  },
+  "ICHNL-0000000227": {
+    "material_name": "Polyvinyl Alcohol",
+    "coa_list": [
+      {
+        "batch_no": "AG06251006",
+        "manufacture_date": "10/10/2025",
+        "expiry_date": "09/10/2027",
+        "path": "/ICHNL-0000000227/AG06251006.pdf"
+      }
+    ]
+  },
+  "ICHNL-0000000228": {
+    "material_name": "Easynov",
+    "coa_list": [
+      {
+        "batch_no": "250402019727",
+        "manufacture_date": "01/04/2025",
+        "expiry_date": "01/04/2028",
+        "path": ""
+      },
+      {
+        "batch_no": "250507010426",
+        "manufacture_date": "05/05/2025",
+        "expiry_date": "04/05/2028",
+        "path": ""
+      },
+      {
+        "batch_no": "250918012481",
+        "manufacture_date": "16/09/2025",
+        "expiry_date": "15/09/2028",
+        "path": ""
+      },
+      {
+        "batch_no": "251009013144",
+        "manufacture_date": "14/10/2025",
+        "expiry_date": "13/10/2028",
+        "path": "/ICHNL-0000000228/COA_SSA_45661M_251009013144_COA0040783.pdf"
+      }
+    ]
+  },
+  "ICHNL-0000000229": {
+    "material_name": "Black Ginseng Extract",
+    "coa_list": [
+      {
+        "batch_no": "EG0901",
+        "manufacture_date": "09/07/2025",
+        "expiry_date": "09/07/2027",
+        "path": ""
+      },
+      {
+        "batch_no": "EK1101",
+        "manufacture_date": "11/11/2025",
+        "expiry_date": "10/11/2027",
+        "path": ""
+      },
+      {
+        "batch_no": "EJ2901",
+        "manufacture_date": "29/10/2025",
+        "expiry_date": "28/10/2027",
+        "path": "/ICHNL-0000000229/EJ2901.pdf"
+      },
+      {
+        "batch_no": "EK2001",
+        "manufacture_date": "20/11/2025",
+        "expiry_date": "19/11/2027",
+        "path": "/ICHNL-0000000229/EK2001.pdf"
+      }
+    ]
+  },
+  "ICHNL-0000000230": {
+    "material_name": "TURMERIC ROOT EXTRACT - Chiết Xuất Nghệ",
+    "coa_list": [
+      {
+        "batch_no": "EH0101",
+        "manufacture_date": "01/08/2025",
+        "expiry_date": "31/07/2027",
+        "path": ""
+      }
+    ]
+  },
+  "ICHNL-0000000231": {
+    "material_name": "HK M25007",
+    "coa_list": [
+      {
+        "batch_no": "RY25070145",
+        "manufacture_date": "01/07/2025",
+        "expiry_date": "01/07/2027",
+        "path": "/ICHNL-0000000231/RY25070145.pdf"
+      },
+      {
+        "batch_no": "RY26021219",
+        "manufacture_date": "12/02/2026",
+        "expiry_date": "12/07/2028",
+        "path": "/ICHNL-0000000231/RY26021219.pdf"
+      }
+    ]
+  },
+  "ICHNL-0000000232": {
+    "material_name": "FR/13697A",
+    "coa_list": [
+      {
+        "batch_no": "FR/13697A09825-01",
+        "manufacture_date": "08/04/2025",
+        "expiry_date": "08/04/2030",
+        "path": ""
+      },
+      {
+        "batch_no": "FR/13697A20525-01",
+        "manufacture_date": "24/07/2025",
+        "expiry_date": "24/07/2030",
+        "path": ""
+      }
+    ]
+  },
+  "ICHNL-0000000233": {
+    "material_name": "Nước",
+    "coa_list": []
+  },
+  "ICHNL-0000000234": {
+    "material_name": "Transparent Glycerin Melt and Pour Soap Base",
+    "coa_list": [
+      {
+        "batch_no": "1T354058A",
+        "manufacture_date": "02/07/2025",
+        "expiry_date": "02/07/2027",
+        "path": "/ICHNL-0000000234/1T354058A.pdf"
+      },
+      {
+        "batch_no": "1T414058A",
+        "manufacture_date": "08/07/2025",
+        "expiry_date": "08/07/2027",
+        "path": ""
+      }
+    ]
+  },
+  "ICHNL-0000000235": {
+    "material_name": "Clear Glycerin Soap Base 25KG",
+    "coa_list": []
+  },
+  "ICHNL-0000000236": {
+    "material_name": "Clear Glycerin Soap Base 20KG",
+    "coa_list": []
+  },
+  "ICHNL-0000000237": {
+    "material_name": "Soap Kéo Sợi",
+    "coa_list": []
+  },
+  "ICHNL-0000000238": {
+    "material_name": "Pair2Phase1",
+    "coa_list": [
+      {
+        "batch_no": "4530281",
+        "manufacture_date": "25/07/2024",
+        "expiry_date": "11/09/2027",
+        "path": "/ICHNL-0000000238/COA - PAIR2PHASE1 - LOT 4530281.pdf"
+      }
+    ]
+  },
+  "ICHNL-0000000239": {
+    "material_name": "Rheopearl KL2",
+    "coa_list": [
+      {
+        "batch_no": "5022820",
+        "manufacture_date": "28/02/2025",
+        "expiry_date": "27/02/2027",
+        "path": "/ICHNL-0000000239/5022820.pdf"
+      }
+    ]
+  },
+  "ICHNL-0000000240": {
+    "material_name": "FEP-100",
+    "coa_list": [
+      {
+        "batch_no": "FEP-250310-100",
+        "manufacture_date": "10/03/2025",
+        "expiry_date": "09/03/2027",
+        "path": ""
+      }
+    ]
+  },
+  "ICHNL-0000000241": {
+    "material_name": "Pure Astaxanthin",
+    "coa_list": [
+      {
+        "batch_no": "PAC25D15",
+        "manufacture_date": "12/12/2025",
+        "expiry_date": "11/06/2027",
+        "path": "/ICHNL-0000000241/PAC25D15_A.pdf"
+      },
+      {
+        "batch_no": "PAC25D15",
+        "manufacture_date": "29/01/2026",
+        "expiry_date": "28/07/2027",
+        "path": ""
+      }
+    ]
+  },
+  "ICHNL-0000000242": {
+    "material_name": "Pink Pepperslim",
+    "coa_list": [
+      {
+        "batch_no": "F9548",
+        "manufacture_date": "02/09/2025",
+        "expiry_date": "02/09/2028",
+        "path": ""
+      }
+    ]
+  },
+  "ICHNL-0000000243": {
+    "material_name": "D-Panthenol 98%",
+    "coa_list": [
+      {
+        "batch_no": "PA2505020",
+        "manufacture_date": "16/05/2025",
+        "expiry_date": "15/05/2027",
+        "path": "/ICHNL-0000000243/PA2505020.pdf"
+      }
+    ]
+  },
+  "ICHNL-0000000244": {
+    "material_name": "Tinh Dầu Bạc Hà D24.280505",
+    "coa_list": [
+      {
+        "batch_no": "D241009",
+        "manufacture_date": "09/10/2024",
+        "expiry_date": "09/10/2025",
+        "path": ""
+      },
+      {
+        "batch_no": "0910SMPMNP1254",
+        "manufacture_date": "09/10/2025",
+        "expiry_date": "08/10/2027",
+        "path": "/ICHNL-0000000244/0910SMPMNP1254.pdf"
+      }
+    ]
+  },
+  "ICHNL-0000000245": {
+    "material_name": "SpecWhite TA",
+    "coa_list": [
+      {
+        "batch_no": "20250616",
+        "manufacture_date": "16/06/2025",
+        "expiry_date": "15/06/2028",
+        "path": "/ICHNL-0000000245/20250616.pdf"
+      },
+      {
+        "batch_no": "20250728",
+        "manufacture_date": "28/07/2025",
+        "expiry_date": "27/07/2028",
+        "path": "/ICHNL-0000000245/20250728.pdf"
+      },
+      {
+        "batch_no": "20250918",
+        "manufacture_date": "18/09/2025",
+        "expiry_date": "17/09/2028",
+        "path": "/ICHNL-0000000245/20250918.pdf"
+      }
+    ]
+  },
+  "ICHNL-0000000246": {
+    "material_name": "BioluminoPeel",
+    "coa_list": [
+      {
+        "batch_no": "EH1101",
+        "manufacture_date": "11/08/2025",
+        "expiry_date": "10/08/2027",
+        "path": "/ICHNL-0000000246/CE7110A  BioluminoPeel(COA_E)_EH1101.pdf"
+      },
+      {
+        "batch_no": "EK1701",
+        "manufacture_date": "17/11/2025",
+        "expiry_date": "16/11/2027",
+        "path": ""
+      }
+    ]
+  },
+  "ICHNL-0000000247": {
+    "material_name": "Jeiu Nature Whitening Cell",
+    "coa_list": [
+      {
+        "batch_no": "EK1101",
+        "manufacture_date": "11/11/2025",
+        "expiry_date": "11/10/2027",
+        "path": "/ICHNL-0000000247/EK1101.pdf"
+      }
+    ]
+  },
+  "ICHNL-0000000248": {
+    "material_name": "Bakuchiol 99%",
+    "coa_list": [
+      {
+        "batch_no": "25101802",
+        "manufacture_date": "18/10/2025",
+        "expiry_date": "17/10/2027",
+        "path": "/ICHNL-0000000248/25101802.pdf"
+      },
+      {
+        "batch_no": "25111101",
+        "manufacture_date": "11/11/2025",
+        "expiry_date": "10/11/2027",
+        "path": "/ICHNL-0000000248/25111101.pdf"
+      },
+      {
+        "batch_no": "24031801",
+        "manufacture_date": "18/03/2024",
+        "expiry_date": "17/03/2026",
+        "path": "/ICHNL-0000000248/24031801.pdf"
+      }
+    ]
+  },
+  "ICHNL-0000000249": {
+    "material_name": "Activoil Echnidium",
+    "coa_list": [
+      {
+        "batch_no": "ECH-019C01-1",
+        "manufacture_date": "19/01/2023",
+        "expiry_date": "19/01/2026",
+        "path": "/ICHNL-0000000249/ECH-019C01-1.pdf"
+      }
+    ]
+  },
+  "ICHNL-0000000250": {
+    "material_name": "Performalene PL",
+    "coa_list": []
+  },
+  "ICHNL-0000000251": {
+    "material_name": "S-Ben W",
+    "coa_list": [
+      {
+        "batch_no": "52112",
+        "manufacture_date": "21/12/2023",
+        "expiry_date": "20/12/2025",
+        "path": ""
+      },
+      {
+        "batch_no": "52405",
+        "manufacture_date": "24/05/2023",
+        "expiry_date": "24/05/2025",
+        "path": ""
+      },
+      {
+        "batch_no": "71206",
+        "manufacture_date": "12/06/2025",
+        "expiry_date": "11/06/2027",
+        "path": ""
+      }
+    ]
+  },
+  "ICHNL-0000000252": {
+    "material_name": "Jasmine Tea Flavour",
+    "coa_list": [
+      {
+        "batch_no": "F24/1173",
+        "manufacture_date": "22/07/2024",
+        "expiry_date": "22/07/2025",
+        "path": ""
+      }
+    ]
+  },
+  "ICHNL-0000000253": {
+    "material_name": "Camellia Sinensis Leaf Extract",
+    "coa_list": [
+      {
+        "batch_no": "NB2004CA101",
+        "manufacture_date": "20/04/2024",
+        "expiry_date": "19/04/2025",
+        "path": ""
+      }
+    ]
+  },
+  "ICHNL-0000000254": {
+    "material_name": "Hương Dưa Tây FL/31430",
+    "coa_list": [
+      {
+        "batch_no": "FL3143028824-01",
+        "manufacture_date": "01/10/2024",
+        "expiry_date": "01/10/2025",
+        "path": ""
+      }
+    ]
+  },
+  "ICHNL-0000000255": {
+    "material_name": "Tinh Dầu Hương Thảo D24.130802",
+    "coa_list": [
+      {
+        "batch_no": "D240917",
+        "manufacture_date": "17/09/2024",
+        "expiry_date": "17/09/2025",
+        "path": ""
+      }
+    ]
+  },
+  "ICHNL-0000000256": {
+    "material_name": "Alpine Milk FRG",
+    "coa_list": [
+      {
+        "batch_no": "210027545",
+        "manufacture_date": "19/07/2023",
+        "expiry_date": "19/07/2025",
+        "path": "/ICHNL-0000000256/210027545.pdf"
+      }
+    ]
+  },
+  "ICHNL-0000000257": {
+    "material_name": "Pinball",
+    "coa_list": []
+  },
+  "ICHNL-0000000258": {
+    "material_name": "HPDR Solutine (1%)",
+    "coa_list": [
+      {
+        "batch_no": "20231103-PDR",
+        "manufacture_date": "03/11/2023",
+        "expiry_date": "02/11/2024",
+        "path": ""
+      }
+    ]
+  },
+  "ICHNL-0000000259": {
+    "material_name": "Abil Care XL 80 MB",
+    "coa_list": [
+      {
+        "batch_no": "E523910148",
+        "manufacture_date": "26/10/2023",
+        "expiry_date": "16/10/2025",
+        "path": ""
+      }
+    ]
+  },
+  "ICHNL-0000000260": {
+    "material_name": "DK-PGT Paste R28L",
+    "coa_list": [
+      {
+        "batch_no": "K-15470",
+        "manufacture_date": "30/10/2020",
+        "expiry_date": "29/10/2022",
+        "path": ""
+      },
+      {
+        "batch_no": "K-15624",
+        "manufacture_date": "28/06/2025",
+        "expiry_date": "27/06/2027",
+        "path": ""
+      }
+    ]
+  },
+  "ICHNL-0000000261": {
+    "material_name": "BT-6034",
+    "coa_list": [
+      {
+        "batch_no": "603422120701",
+        "manufacture_date": "07/12/2022",
+        "expiry_date": "06/06/2025",
+        "path": ""
+      }
+    ]
+  },
+  "ICHNL-0000000262": {
+    "material_name": "Emal 10P HD",
+    "coa_list": [
+      {
+        "batch_no": "35723",
+        "manufacture_date": "02/08/2024",
+        "expiry_date": "01/08/2025",
+        "path": ""
+      }
+    ]
+  },
+  "ICHNL-0000000263": {
+    "material_name": "Admul MG 60",
+    "coa_list": [
+      {
+        "batch_no": "7318519",
+        "manufacture_date": "28/07/2023",
+        "expiry_date": "17/07/2025",
+        "path": "/ICHNL-0000000263/0007318519.pdf"
+      },
+      {
+        "batch_no": "0010370088",
+        "manufacture_date": "24/07/2025",
+        "expiry_date": "14/07/2027",
+        "path": "/ICHNL-0000000263/0010370088.pdf"
+      }
+    ]
+  },
+  "ICHNL-0000000264": {
+    "material_name": "Parsol MCX",
+    "coa_list": [
+      {
+        "batch_no": "0522060069",
+        "manufacture_date": "23/08/2022",
+        "expiry_date": "22/08/2025",
+        "path": ""
+      }
+    ]
+  },
+  "ICHNL-0000000265": {
+    "material_name": "Coffee Flavour",
+    "coa_list": [
+      {
+        "batch_no": "P2198S",
+        "manufacture_date": "20/02/2024",
+        "expiry_date": "20/02/2025",
+        "path": ""
+      }
+    ]
+  },
+  "ICHNL-0000000266": {
+    "material_name": "Ecosol N 702 U",
+    "coa_list": [
+      {
+        "batch_no": "PS2U3C02032401D-1",
+        "manufacture_date": "10/01/2024",
+        "expiry_date": "10/01/2025",
+        "path": ""
+      }
+    ]
+  },
+  "ICHNL-0000000267": {
+    "material_name": "BioStine HP",
+    "coa_list": [
+      {
+        "batch_no": "M-2109001",
+        "manufacture_date": "01/11/2022",
+        "expiry_date": "31/10/2025",
+        "path": "/ICHNL-0000000267/M-2109001.jpg"
+      },
+      {
+        "batch_no": "M-2507011",
+        "manufacture_date": "28/07/2025",
+        "expiry_date": "27/07/2028",
+        "path": ""
+      }
+    ]
+  },
+  "ICHNL-0000000268": {
+    "material_name": "Vitamin E Acetate 98%",
+    "coa_list": [
+      {
+        "batch_no": "39685856P0",
+        "manufacture_date": "15/08/2025",
+        "expiry_date": "14/08/2028",
+        "path": "/ICHNL-0000000268/39685856P0.pdf"
+      },
+      {
+        "batch_no": "34922316K0",
+        "manufacture_date": "25/07/2025",
+        "expiry_date": "24/07/2028",
+        "path": "/ICHNL-0000000268/34922316K0.pdf"
+      },
+      {
+        "batch_no": "81489788Q0",
+        "manufacture_date": "26/02/2024",
+        "expiry_date": "25/02/2027",
+        "path": "/ICHNL-0000000268/81489788Q0.pdf"
+      }
+    ]
+  },
+  "ICHNL-0000000269": {
+    "material_name": "Blue - BP(1.5)",
+    "coa_list": [
+      {
+        "batch_no": "EC3101",
+        "manufacture_date": "31/03/2025",
+        "expiry_date": "30/03/2027",
+        "path": "/ICHNL-0000000269/EC3101.pdf"
+      },
+      {
+        "batch_no": "EC3102",
+        "manufacture_date": "30/04/2025",
+        "expiry_date": "29/04/2027",
+        "path": ""
+      },
+      {
+        "batch_no": "EC3001",
+        "manufacture_date": "30/03/2025",
+        "expiry_date": "29/03/2027",
+        "path": ""
+      },
+      {
+        "batch_no": "EC2102",
+        "manufacture_date": "21/02/2025",
+        "expiry_date": "20/02/2027",
+        "path": "/ICHNL-0000000269/EC2102.pdf"
+      }
+    ]
+  },
+  "ICHNL-0000000270": {
+    "material_name": "Hạt Pearlets Tím",
+    "coa_list": []
+  },
+  "ICHNL-0000000271": {
+    "material_name": "Hạt Pearlets Gold",
+    "coa_list": [
+      {
+        "batch_no": "202504213M",
+        "manufacture_date": "21/04/2025",
+        "expiry_date": "20/04/2027",
+        "path": ""
+      }
+    ]
+  },
+  "ICHNL-0000000272": {
+    "material_name": "Hạt Pearlets Green",
+    "coa_list": [
+      {
+        "batch_no": "PL2025111341L",
+        "manufacture_date": "13/11/2025",
+        "expiry_date": "12/11/2027",
+        "path": ""
+      }
+    ]
+  },
+  "ICHNL-0000000273": {
+    "material_name": "Hạt Pearlets Xanh Biển",
+    "coa_list": []
+  },
+  "ICHNL-0000000274": {
+    "material_name": "Syntenol A",
+    "coa_list": [
+      {
+        "batch_no": "D001090325",
+        "manufacture_date": "13/12/2024",
+        "expiry_date": "12/12/2029",
+        "path": ""
+      },
+      {
+        "batch_no": "D003010525",
+        "manufacture_date": "16/01/2025",
+        "expiry_date": "15/01/2030",
+        "path": ""
+      },
+      {
+        "batch_no": "D002420425",
+        "manufacture_date": "06/03/2025",
+        "expiry_date": "05/03/2030",
+        "path": ""
+      }
+    ]
+  },
+  "ICHNL-0000000275": {
+    "material_name": "VeryBerry ACNEcare",
+    "coa_list": [
+      {
+        "batch_no": "G-510",
+        "manufacture_date": "10/06/2025",
+        "expiry_date": "09/06/2027",
+        "path": ""
+      }
+    ]
+  },
+  "ICHNL-0000000276": {
+    "material_name": "Actibiome PE",
+    "coa_list": [
+      {
+        "batch_no": "F9290",
+        "manufacture_date": "24/07/2025",
+        "expiry_date": "24/07/2028",
+        "path": ""
+      }
+    ]
+  },
+  "ICHNL-0000000277": {
+    "material_name": "Sillitin V88",
+    "coa_list": [
+      {
+        "batch_no": "5025153",
+        "manufacture_date": "28/07/2025",
+        "expiry_date": "",
+        "path": "/ICHNL-0000000277/5025153.pdf"
+      }
+    ]
+  },
+  "ICHNL-0000000278": {
+    "material_name": "ActiBiso Bakuchiol Plus",
+    "coa_list": [
+      {
+        "batch_no": "BBAK251208",
+        "manufacture_date": "08/12/2025",
+        "expiry_date": "07/12/2027",
+        "path": ""
+      },
+      {
+        "batch_no": "BBAK251218",
+        "manufacture_date": "18/12/2025",
+        "expiry_date": "17/12/2027",
+        "path": ""
+      }
+    ]
+  },
+  "ICHNL-0000000279": {
+    "material_name": "Alpha Arbutin",
+    "coa_list": [
+      {
+        "batch_no": "LGB20241203",
+        "manufacture_date": "03/12/2024",
+        "expiry_date": "02/12/2026",
+        "path": "/ICHNL-0000000279/LGB20241203.pdf"
+      },
+      {
+        "batch_no": "LGB20221125",
+        "manufacture_date": "25/11/2022",
+        "expiry_date": "24/11/2024",
+        "path": "/ICHNL-0000000279/LGB20221125.pdf"
+      }
+    ]
+  },
+  "ICHNL-0000000280": {
+    "material_name": "Precipitated Silica Mfil - P",
+    "coa_list": []
+  },
+  "ICHNL-0000000281": {
+    "material_name": "Sepigel 305",
+    "coa_list": []
+  },
+  "ICHNL-0000000282": {
+    "material_name": "FR/14417",
+    "coa_list": [
+      {
+        "batch_no": "FR1441703326-01",
+        "manufacture_date": "02/02/2026",
+        "expiry_date": "02/02/2031",
+        "path": ""
+      }
+    ]
+  },
+  "ICHNL-0000000283": {
+    "material_name": "Madecassoside 95%",
+    "coa_list": [
+      {
+        "batch_no": "SHCE010326001",
+        "manufacture_date": "15/01/2026",
+        "expiry_date": "14/01/2029",
+        "path": "/ICHNL-0000000283/SHCE010326001.pdf"
+      }
+    ]
+  },
+  "ICHNL-0000000284": {
+    "material_name": "Butterfly Pea Flower Extract",
+    "coa_list": [
+      {
+        "batch_no": "250826BPF",
+        "manufacture_date": "26/08/2025",
+        "expiry_date": "26/02/2027",
+        "path": "/ICHNL-0000000284/250826BPF.pdf"
+      }
+    ]
+  },
+  "ICHNL-0000000285": {
+    "material_name": "EHDOIL",
+    "coa_list": [
+      {
+        "batch_no": "L302215-A",
+        "manufacture_date": "11/02/2025",
+        "expiry_date": "11/02/2027",
+        "path": ""
+      }
+    ]
+  },
+  "ICHNL-0000000286": {
+    "material_name": "Sweetie JN Fragrance",
+    "coa_list": []
+  },
+  "ICHNL-0000000287": {
+    "material_name": "NIO-VCS",
+    "coa_list": []
+  },
+  "ICHNL-0000000288": {
+    "material_name": "Hạt Colorlets Carmine",
+    "coa_list": [
+      {
+        "batch_no": "PL2025111481L",
+        "manufacture_date": "14/11/2025",
+        "expiry_date": "13/11/2027",
+        "path": ""
+      }
+    ]
+  },
+  "ICHNL-0000000289": {
+    "material_name": "SpecKare EyeS100",
+    "coa_list": [
+      {
+        "batch_no": "24120902",
+        "manufacture_date": "09/12/2024",
+        "expiry_date": "08/12/2026",
+        "path": "/ICHNL-0000000289/24120902.pdf"
+      }
+    ]
+  },
+  "ICHNL-0000000290": {
+    "material_name": "Tartrazine V101:1-120",
+    "coa_list": [
+      {
+        "batch_no": "VS26020298",
+        "manufacture_date": "10/02/2026",
+        "expiry_date": "09/02/2031",
+        "path": ""
+      }
+    ]
+  },
+  "ICHNL-0000000291": {
+    "material_name": "Sunset Yellow V104:41-80",
+    "coa_list": [
+      {
+        "batch_no": "VS26010154",
+        "manufacture_date": "23/01/2026",
+        "expiry_date": "22/01/2031",
+        "path": ""
+      }
+    ]
+  },
+  "ICHNL-0000000292": {
+    "material_name": "Brilliant Blue V107:41-80",
+    "coa_list": [
+      {
+        "batch_no": "VS26010196",
+        "manufacture_date": "29/01/2026",
+        "expiry_date": "28/01/2031",
+        "path": ""
+      }
+    ]
+  },
+  "ICHNL-0000000293": {
+    "material_name": "Light Liquid Paraffin BP",
+    "coa_list": [
+      {
+        "batch_no": "T255515",
+        "manufacture_date": "01/12/2025",
+        "expiry_date": "01/11/2027",
+        "path": ""
+      }
+    ]
+  },
+  "ICHNL-0000000294": {
+    "material_name": "Luvitol Lite EM",
+    "coa_list": [
+      {
+        "batch_no": "29735324U0",
+        "manufacture_date": "02/06/2025",
+        "expiry_date": "02/06/2027",
+        "path": "/ICHNL-0000000294/29735324U0.pdf"
+      }
+    ]
+  },
+  "ICHNL-0000000295": {
+    "material_name": "Hyaluronic Acid 0.8-1.5MDA",
+    "coa_list": [
+      {
+        "batch_no": "2025121008",
+        "manufacture_date": "10/12/2025",
+        "expiry_date": "09/12/2028",
+        "path": "/ICHNL-0000000295/2025121008.pdf"
+      }
+    ]
+  },
+  "ICHNL-0000000296": {
+    "material_name": "Perfume Fragrance (Sexy Man 212) QHY1113A",
+    "coa_list": []
+  },
+  "ICHNL-0000000297": {
+    "material_name": "Hương Đào F2513W",
+    "coa_list": [
+      {
+        "batch_no": "2510071016",
+        "manufacture_date": "07/10/2025",
+        "expiry_date": "07/10/2026",
+        "path": "/ICHNL-0000000297/MKJ03331G.pdf"
+      }
+    ]
+  },
+  "ICHNL-0000000298": {
+    "material_name": "Sodium Hyaluronate",
+    "coa_list": [
+      {
+        "batch_no": "25062601",
+        "manufacture_date": "26/06/2025",
+        "expiry_date": "25/06/2027",
+        "path": ""
+      }
+    ]
+  },
+  "ICHNL-0000000299": {
+    "material_name": "",
+    "coa_list": [
+      {
+        "batch_no": "202510005",
+        "manufacture_date": "29/10/2025",
+        "expiry_date": "28/04/2027",
+        "path": "/ICHNL-0000000299/202510005.pdf"
+      }
+    ]
+  },
+  "ICHNL-0000000300": {
+    "material_name": "",
+    "coa_list": []
+  },
+  "ICHNL-0000000301": {
+    "material_name": "Color retouching beads",
+    "coa_list": [
+      {
+        "batch_no": "20250402",
+        "manufacture_date": "02/04/2025",
+        "expiry_date": "01/04/2027",
+        "path": "/ICHNL-0000000301/20250402.pdf"
+      }
+    ]
+  },
+  "ICHNL-0000000302": {
+    "material_name": "KYO - Dowsil CE-7051 POE Emulsion",
+    "coa_list": [
+      {
+        "batch_no": "20250624",
+        "manufacture_date": "24/06/2024",
+        "expiry_date": "24/06/2026",
+        "path": "/ICHNL-0000000147/20250624.pdf"
+      }
+    ]
+  }
+}
