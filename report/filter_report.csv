@@ -1,0 +1,11 @@
+Material ID,Material Name,Batch Number,Expiration Date,Path,Exists File,Reason
+ICHNL-0000000094,Cutina AGS,0029820505,(empty),(empty),false,Mã lô không tồn tại.
+ICHNL-0000000001,Fermented Honey,FHP25E28,02/04/2027,./data/ICHNL-0000000001/FHP25E28.pdf,true,OK
+ICHNL-0000000001,Fermented Honey,FHP25I04,06/05/2027,./data,false,Không tìm thấy file COA.
+ICHNL-0000000002,Nano Bubble Ginger Extract H,GNB25J24H,03/06/2027,(empty),false,Không tìm thấy mã lô với HSD tương tự.
+ICHNL-0000000002,Nano Bubble Ginger Extract H,GNB25J24H,02/06/2027,./data/ICHNL-0000000002/GNB25J24H_03122025.pdf,true,OK
+ICHNL-0000000002,Nano Bubble Ginger Extract H,GNB25J24H,11/06/2027,./data/ICHNL-0000000002/GNB25J24H_12122025.pdf,true,OK
+ICHNL-0000000002,Nano Bubble Ginger Extract H,GNB25J24H,10/06/2027,./data/ICHNL-0000000002/GNB25J24H_11122025.pdf,true,OK
+ICHNL-0000000003,Pink Rockrose Extract,PREG25E16,02/04/2027,./data/ICHNL-0000000003/PREG25E16_03102025.pdf,true,OK
+ICHNL-0000000003,Pink Rockrose Extract,PREG25E16,06/05/2027,./data,false,Không tìm thấy file COA.
+ICHNL-0000000333,(empty),(empty),(empty),(empty),false,Không tìm thấy mã nguyên liệu trong database.

@@ -3,7 +3,11 @@ use clap::Parser;
 use colored::Colorize;
 use serde::Deserialize;
 use serde_json;
-use std::{collections::HashMap, fs, path::PathBuf};
+use std::{
+    collections::HashMap,
+    fs,
+    path::{Path, PathBuf},
+};
 
 pub const COA_FILE_BASE_PATH: &'static str = "./data";
 pub const COA_BASE_PATH: &'static str = "./data/data.json";
@@ -34,14 +38,6 @@ pub struct Args {
     /// Cột ngày sản xuất trong CSV (mặc định: "expiration_date")
     #[arg(long, default_value = "expiration_date")]
     pub col_expiration_date_name: String,
-
-    /// Bỏ qua lỗi khi không đọc được file PDF
-    #[arg(long, help = "Bỏ qua file PDF lỗi, tiếp tục xử lý")]
-    pub ignore_errors: bool,
-
-    /// Bật chế độ chỉ xem trước, không copy thực sự
-    #[arg(long, help = "Chỉ xem trước, không copy file")]
-    pub dry_run: bool,
 }
 
 pub fn args_parse() -> AnyResult<Args> {
@@ -81,12 +77,10 @@ struct Material {
 
 #[derive(Debug)]
 pub struct ResultItem {
-    material_id: String,
-    material_name: String,
-    batch_no: String,
-    expiration_date: String,
-    path: String,
-    valid_file: bool,
+    pub material_id: String,
+    pub batch_no: String,
+    pub expiry_date: String,
+    pub path: PathBuf,
 }
 
 #[derive(Debug)]
@@ -94,9 +88,9 @@ pub struct Reports {
     material_id: String,
     material_name: String,
     batch_no: String,
-    expiration_date: String,
+    expiry_date: String,
     path: String,
-    valid_file: bool,
+    exists_file: bool,
     reason: String,
 }
 
@@ -212,159 +206,191 @@ pub fn read_csv(path: &PathBuf, csv_col: &CsvColumns) -> AnyResult<Vec<ListEntry
     Ok(entries)
 }
 
-pub fn search(entries: Vec<ListEntry>) -> AnyResult<()> {
+pub fn search(
+    entries: Vec<ListEntry>,
+    output_path: &Option<PathBuf>,
+) -> AnyResult<Vec<ResultItem>> {
     let data = fs::read_to_string(COA_BASE_PATH)?;
-    let map: HashMap<String, Material> = serde_json::from_str(&data)?;
+    let data: HashMap<String, Material> = serde_json::from_str(&data)?;
 
-    let mut reports = Vec::new();
-    // let mut results = Vec::new();
-    let mut unique_check: HashMap<String, HashMap<String, Vec<String>>> = HashMap::new();
+    let mut reports: Vec<Reports> = Vec::new();
+    let mut results: Vec<ResultItem> = Vec::new();
 
     for entry in entries {
-        let mut report = Reports {
-            material_id: entry.material_id.clone(),
-            material_name: String::from("(empty)"),
-            batch_no: String::from("(empty)"),
-            expiration_date: String::from("(empty)"),
-            path: String::from("(empty)"),
-            valid_file: false,
-            reason: String::from("(empty)"),
+        let Some(material) = data.get(&entry.material_id) else {
+            reports.push(Reports {
+                material_id: entry.material_id,
+                material_name: "(empty)".into(),
+                batch_no: "(empty)".into(),
+                expiry_date: "(empty)".into(),
+                path: "(empty)".into(),
+                exists_file: false,
+                reason: "Không tìm thấy mã nguyên liệu trong database.".into(),
+            });
+            continue;
         };
-        if let Some(material) = map.get(&entry.material_id) {
-            report.material_name = material.material_name.clone();
 
-            let coas: Vec<&Coa> = material
-                .coa_list
-                .iter()
-                .filter(|c| c.batch_no == entry.batch_no)
-                .collect();
+        let coas: Vec<&Coa> = material
+            .coa_list
+            .iter()
+            .filter(|c| c.batch_no == entry.batch_no)
+            .collect();
 
-            if coas.len() == 0 {
-                report.reason = String::from("Mã lô không tồn tại.");
-            } else {
-            }
-            // println!("{coas:?}");
-        } else {
-            report.reason = String::from("Không tìm thấy mã nguyên liệu trong database.");
-            reports.push(report);
+        if coas.is_empty() {
+            reports.push(Reports {
+                material_id: entry.material_id,
+                material_name: material.material_name.clone(),
+                batch_no: entry.batch_no,
+                expiry_date: "(empty)".into(),
+                path: "(empty)".into(),
+                exists_file: false,
+                reason: "Mã lô không tồn tại.".into(),
+            });
+            continue;
         }
-    }
-    println!("{reports:?}");
 
-    Ok(())
-}
+        // Filter theo expiration_date nếu có
+        let filtered_coas: Vec<&Coa> = if entry.expiration_date.is_empty() {
+            coas
+        } else {
+            coas.into_iter()
+                .filter(|c| c.expiry_date == entry.expiration_date)
+                .collect()
+        };
 
-pub fn search1(entries: Vec<ListEntry>) -> AnyResult<()> {
-    let data = fs::read_to_string(COA_BASE_PATH)?;
-    let map: HashMap<String, Material> = serde_json::from_str(&data)?;
+        if filtered_coas.is_empty() {
+            reports.push(Reports {
+                material_id: entry.material_id,
+                material_name: material.material_name.clone(),
+                batch_no: entry.batch_no,
+                expiry_date: entry.expiration_date,
+                path: "(empty)".into(),
+                exists_file: false,
+                reason: "Không tìm thấy mã lô với HSD tương tự.".into(),
+            });
+            continue;
+        }
 
-    let mut reports = Vec::new();
-    let mut results = Vec::new();
-    let mut unique_check: HashMap<String, HashMap<String, Vec<String>>> = HashMap::new();
-
-    for entry in entries {
-        if let Some(material) = map.get(&entry.material_id) {
-            for coa in &material.coa_list {
-                if coa.batch_no == entry.batch_no && coa.path != "" {
-                    if entry.expiration_date != "" && entry.expiration_date != coa.expiry_date {
-                        continue;
-                    }
-
-                    let unique_m = unique_check
-                        .entry(String::from(&entry.material_id))
-                        .or_insert(HashMap::new());
-
-                    let unique_b = unique_m
-                        .entry(String::from(&coa.batch_no))
-                        .or_insert(Vec::new());
-
-                    if unique_b.contains(&coa.expiry_date) {
-                        continue;
-                    }
-
-                    unique_b.push(coa.expiry_date.clone());
-
-                    let full_path = format!("{}{}", COA_FILE_BASE_PATH, &coa.path);
-
-                    let valid = file_exists(COA_FILE_BASE_PATH, &coa.path);
-
-                    results.push(ResultItem {
-                        material_id: entry.material_id.clone(),
-                        material_name: material.material_name.clone(),
-                        batch_no: coa.batch_no.clone(),
-                        expiration_date: coa.expiry_date.clone(),
-                        path: if coa.path == "" {
-                            "(empty)".to_string()
-                        } else {
-                            full_path
-                        },
-                        valid_file: valid,
-                    });
-                }
+        for coa in filtered_coas {
+            if reports
+                .iter()
+                .any(|r| r.batch_no == coa.batch_no && r.expiry_date == coa.expiry_date)
+            {
+                continue;
             }
 
+            let full_path = format!("{}{}", COA_FILE_BASE_PATH, coa.path);
+            let exists = file_exists(COA_FILE_BASE_PATH, &coa.path);
+
+            let reason = if exists {
+                "OK"
+            } else {
+                "Không tìm thấy file COA."
+            };
+
+            // push report
             reports.push(Reports {
                 material_id: entry.material_id.clone(),
                 material_name: material.material_name.clone(),
-                batch_no: String::from("(empty)"),
-                expiration_date: String::from("(empty)"),
-                path: String::from("(empty)"),
-                valid_file: false,
-                reason: String::from("Không tìm thấy số lô trong database."),
+                batch_no: coa.batch_no.clone(),
+                expiry_date: coa.expiry_date.clone(),
+                path: full_path.clone(),
+                exists_file: exists,
+                reason: reason.into(),
             });
-        } else {
-            reports.push(Reports {
-                material_id: entry.material_id.clone(),
-                material_name: String::from("(empty)"),
-                batch_no: String::from("(empty)"),
-                expiration_date: String::from("(empty)"),
-                path: String::from("(empty)"),
-                valid_file: false,
-                reason: String::from("Không tìm thấy mã nguyên liệu trong database."),
-            });
+
+            // push result nếu file tồn tại
+            if exists {
+                results.push(ResultItem {
+                    material_id: entry.material_id.clone(),
+                    batch_no: coa.batch_no.clone(),
+                    expiry_date: coa.expiry_date.clone(),
+                    path: PathBuf::from(full_path.clone()),
+                });
+            }
         }
     }
-    println!("{reports:?}");
 
     println!();
-    if !results.is_empty() {
-        println!(
-            "   ✅ Tìm được {} file coa\n",
-            results.len().to_string().green().bold()
-        );
-
+    if !reports.is_empty() {
         // In bảng kết quả
         println!(
-            "  {:<20} {:<20} {:<20} {:<20} {:<50} {}",
+            "  {:<20} {:<20} {:<20} {:<20} {:<50} {:15} {} ",
             "Material ID".bold(),
             "Material Name".bold(),
             "Batch Number".bold(),
             "Expiration Date".bold(),
             "Path".bold(),
-            "Exists File".bold()
+            "Exists File".bold(),
+            "Reason".bold()
         );
-        println!("  {}", "─".repeat(150));
+        println!("  {}", "─".repeat(190));
 
-        for r in &results {
+        for r in &reports {
             println!(
-                "  {:<20} {:<20} {:<20} {:<20} {:<50} {}",
+                "  {:<20} {:<20} {:<20} {:<20} {:<50} {:15} {} ",
                 truncate(&r.material_id, 18).green(),
                 truncate(&r.material_name, 18).cyan(),
                 truncate(&r.batch_no, 18).cyan(),
                 truncate(
-                    if r.expiration_date == "" {
+                    if r.expiry_date == "" {
                         "--"
                     } else {
-                        &r.expiration_date
+                        &r.expiry_date
                     },
-                    13
+                    18
                 )
                 .yellow(),
                 truncate(&r.path, 48).cyan(),
-                &r.valid_file
+                &r.exists_file,
+                truncate(&r.reason, 50)
             );
         }
     }
 
+    println!();
+
+    if !results.is_empty() {
+        println!(
+            "   ✅ Tìm được {} file COA\n",
+            results.len().to_string().green().bold()
+        );
+    }
+
+    if let Some(output_dir) = output_path {
+        let report_path = output_dir.join("filter_report.csv");
+        save_report(&reports, &report_path)?;
+        println!(
+            "\n  📄 Báo cáo lưu tại: {}",
+            report_path.display().to_string().yellow()
+        );
+    }
+
+    Ok(results)
+}
+
+pub fn save_report(matches: &[Reports], path: &Path) -> AnyResult<()> {
+    let mut wtr = csv::Writer::from_path(path)?;
+    wtr.write_record([
+        "Material ID",
+        "Material Name",
+        "Batch Number",
+        "Expiration Date",
+        "Path",
+        "Exists File",
+        "Reason",
+    ])?;
+    for m in matches {
+        wtr.write_record([
+            &m.material_id,
+            &m.material_name,
+            &m.batch_no,
+            &m.expiry_date,
+            &m.path,
+            &m.exists_file.to_string(),
+            &m.reason,
+        ])?;
+    }
+    wtr.flush()?;
     Ok(())
 }

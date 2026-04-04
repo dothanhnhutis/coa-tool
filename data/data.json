@@ -581,7 +581,7 @@
         "batch_no": "N03292025",
         "manufacture_date": "01/03/2025",
         "expiry_date": "01/03/2027",
-        "path": "/ICHNL-0000000032/CDE ( HUNKA ) - N03292025.jpg"
+        "path": "/ICHNL-0000000032/N03292025.jpg"
       }
     ]
   },
@@ -627,7 +627,7 @@
         "batch_no": "K25H26",
         "manufacture_date": "16/09/2025",
         "expiry_date": "15/03/2027",
-        "path": "/ICHNL-0000000034/IWAKIRIBG_14665.pdf"
+        "path": "/ICHNL-0000000034/K25H26_160925.pdf"
       }
     ]
   },
@@ -1153,7 +1153,7 @@
         "batch_no": "RAS2302800",
         "manufacture_date": "28/01/2023",
         "expiry_date": "28/01/2028",
-        "path": "/ICHNL-0000000066/ACID SALICYLIC - RAS2302800.pdf"
+        "path": "/ICHNL-0000000066/RAS2302800.pdf"
       }
     ]
   },
@@ -1176,7 +1176,7 @@
         "batch_no": "VC2408-107B",
         "manufacture_date": "19/08/2024",
         "expiry_date": "18/08/2026",
-        "path": "/ICHNL-0000000067/(COA)STAR-VCE_VC2408-107B.pdf"
+        "path": "/ICHNL-0000000067/VC2408-107B.pdf"
       }
     ]
   },
@@ -1204,7 +1204,7 @@
         "batch_no": "20230928",
         "manufacture_date": "28/09/2023",
         "expiry_date": "27/09/2026",
-        "path": "/ICHNL-0000000069/COSMAN 4105Y - 20230928 ( NBA ).pdf"
+        "path": "/ICHNL-0000000069/20230928.pdf"
       }
     ]
   },
@@ -1517,7 +1517,7 @@
         "batch_no": "2103015359",
         "manufacture_date": "01/04/2025",
         "expiry_date": "31/03/2029",
-        "path": "/ICHNL-0000000086/DRYGEN 2103015359.pdf"
+        "path": "/ICHNL-0000000086/2103015359.pdf"
       }
     ]
   },
